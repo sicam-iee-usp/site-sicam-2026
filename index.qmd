@@ -12,7 +12,7 @@ listing:
 page-layout: full
 ---
 
-<center><a href="/anais-v-sicam.pdf" target="_blank"><button type="button" class="btn btn-warning">Confira os Anais do V SICAM!</button></center></a>
+<center><a href="/anais-v-sicam-v2.pdf" target="_blank"><button type="button" class="btn btn-warning">Confira os Anais do V SICAM!</button></center></a>
 
 ## Novidades
 

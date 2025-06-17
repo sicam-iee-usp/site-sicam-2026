@@ -9,7 +9,7 @@ Confira os Anais do V SICAM!
 
 Nos Anais é possível acessar um registro das principais atividades que ocorreram durante o evento, registros fotográficos, facilitações gráficas elaboradas durante o evento, informações sobre os GTs, resumos expandidos, artigos completos e muito mais!
 
-<center><a href="/anais-v-sicam.pdf" target="_blank"><button type="button" class="btn btn-warning">Confira os Anais do V SICAM!</button></center>
+<center><a href="/anais-v-sicam-v2.pdf" target="_blank"><button type="button" class="btn btn-warning">Confira os Anais do V SICAM!</button></center>
 
 </a>
 

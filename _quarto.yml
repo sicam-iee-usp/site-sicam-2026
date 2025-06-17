@@ -42,7 +42,7 @@ website:
           - programacao.qmd
           - informacoes.qmd  
       - text: "Anais V SICAM"
-        href: "/anais-v-sicam.pdf"        
+        href: "/anais-v-sicam-v2.pdf"        
       # - text: "Inscreva-se"
       #   href: "https://forms.gle/gpKEwHUSp4buPav17"
 
