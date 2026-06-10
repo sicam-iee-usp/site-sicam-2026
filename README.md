@@ -17,9 +17,9 @@ Segue a lista de alguns arquivos úteis:
 
 - [`equipe.qmd`](equipe.qmd)
 
-- [`edicoes-anteriores.qmd`](https://github.com/sicam-iee-usp/site-sicam-v2/blob/main/edicoes-anteriores.qmd)
+- [`edicoes-anteriores.qmd`](edicoes-anteriores.qmd)
 
-- [`grupos-tematicos.qmd`](https://github.com/sicam-iee-usp/site-sicam-v2/blob/main/grupos-tematicos.qmd)
+- [`grupos-tematicos.qmd`](grupos-tematicos.qmd)
 
-- [`submissao.qmd`](https://github.com/sicam-iee-usp/site-sicam-v2/blob/main/submissao.qmd)
+- [`submissao.qmd`](submissao.qmd)
 
