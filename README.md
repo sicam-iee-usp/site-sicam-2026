@@ -4,7 +4,7 @@
 
 ## Como solicitar alterações nas páginas
 
-Estamos organizando as mudanças necessárias usando as [Issues do GitHub](https://github.com/sicam-iee-usp/site-sicam-v2/issues). Verifique se já existe alguma issue para a mudança/atualização necessária. Caso não exista, crie uma nova issue descrevendo a mudança/atualização necessária.
+Estamos organizando as mudanças necessárias usando as [Issues do GitHub](https://github.com/sicam-iee-usp/site-sicam-2026/issues). Verifique se já existe alguma issue para a mudança/atualização necessária. Caso não exista, crie uma nova issue descrevendo a mudança/atualização necessária.
 
 ## Como atualizar as páginas
 
