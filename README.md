@@ -15,7 +15,7 @@ Para que seja possível alterar os arquivos, você precisa ter acesso de contrib
 
 Segue a lista de alguns arquivos úteis:
 
-- [`equipe.qmd`](https://github.com/sicam-iee-usp/site-sicam-v2/blob/main/equipe.qmd)
+- [`equipe.qmd`](equipe.qmd)
 
 - [`edicoes-anteriores.qmd`](https://github.com/sicam-iee-usp/site-sicam-v2/blob/main/edicoes-anteriores.qmd)
 
