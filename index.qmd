@@ -12,8 +12,6 @@ listing:
 page-layout: full
 ---
 
-![](img/SICAM-2026-temp.png){fig-align="center" fig-alt="VI SICAM - Simpósio Interdisciplinar de Ciência Ambiental"}
-
 ## Novidades
 
 ::: {#listing-posts}
