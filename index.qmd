@@ -1,5 +1,5 @@
 ---
-title: "V Simpósio Interdisciplinar de Ciência Ambiental"
+title: "VI Simpósio Interdisciplinar de Ciência Ambiental"
 title-block-banner: true
 listing:
   id: listing-posts
