@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: "docs/"
-  resources: 
+  resources:
     - "*.pdf"
     - "img/*"
     - "*.pptx"
@@ -10,12 +10,12 @@ project:
 website:
   # body-header: |
   #   ![Logo image](/img/logo.jpeg)
-  title: "V SICAM"
+  title: "VI SICAM"
   page-footer:
-    center: "V Simpósio Interdisciplinar de Ciência Ambiental - 2024" 
+    center: "VI Simpósio Interdisciplinar de Ciência Ambiental - 2026"
     border: true
     background: dark
-    right: 
+    right:
       - icon: house
         href: "https://sicam.com.br"
       - icon: instagram
@@ -25,7 +25,7 @@ website:
       - icon: envelope
         href: mailto:sicam.iee.usp@gmail.com
   navbar:
-    logo: "img/logo_sem_texto.jpg" 
+    logo: "img/logo_sem_texto.jpg"
     right:
       - text: "Página inicial"
         href: "https://sicam.com.br"
@@ -34,20 +34,15 @@ website:
           - sobre-o-evento.qmd
           - equipe.qmd
           - edicoes-anteriores.qmd
-      - text: "V SICAM"
-        menu:
-          - submissao.qmd   
-          - grupos-tematicos.qmd 
-          - submissoes-aprovadas.qmd
-          - programacao.qmd
-          - informacoes.qmd  
-      - text: "Anais V SICAM"
-        href: "/anais-v-sicam-v2.pdf"        
+      # As páginas abaixo serão atualizadas e re-adicionadas ao navbar quando
+      # tivermos as informações do VI SICAM (2026):
+      #   - submissao.qmd
+      #   - grupos-tematicos.qmd
+      #   - submissoes-aprovadas.qmd
+      #   - programacao.qmd
+      #   - informacoes.qmd
       # - text: "Inscreva-se"
       #   href: "https://forms.gle/gpKEwHUSp4buPav17"
-
-                
-      
     left:
       - icon: house
         href: "https://sicam.com.br"

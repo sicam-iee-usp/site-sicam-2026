@@ -37,13 +37,13 @@ Durante as apresentações, haverá debatedores e relatores.
 
 As apresentações em pôster acontecerão no Centro de Convivência do IEE, durante os dias do evento, em horários que serão divulgados na programação.
 
-Acesse o [template para o pôster](https://github.com/sicam-iee-usp/site-sicam-v2/raw/main/template_poster.pptx).
+Acesse o [template para o pôster](https://github.com/sicam-iee-usp/site-sicam-2026/raw/main/template_poster.pptx).
 
 ## Normas de elaboração de resumo expandido
 
 O resumo expandido deverá conter no mínimo **1.000 palavras** e no máximo **1.500** palavras (excluindo título, autores, resumos, figuras, tabelas e referências bibliográficas), ressaltando a importância e justificativa do trabalho, o objetivo, o local de realização, a metodologia utilizada, os principais resultados e, ao final, a principal conclusão, escritos de maneira clara, coerente e concisa. O conteúdo deve apresentar coerência metodológica. Obrigatória a apresentação dos resumos nas 3 línguas (português, inglês e espanhol).
 
-O **Texto principal** (Desenvolvimento do trabalho, por exemplo, as seções Introdução, Material e Métodos, Resultados, Discussão e Conclusão, podendo-se utilizar outra estrutura caso o autor prefira) deve ser redigido em português, fonte Times New Roman, tamanho 12, formato do papel A4, com espaçamento 1,5, margens superior e esquerda de 2,5 cm e inferior e direita de 2,5 cm. O texto deverá ser digitado em modo "justificado". Solicitamos que utilizem o [template de envio](https://github.com/sicam-iee-usp/site-sicam-v2/raw/main/template_submissao.docx) preparado.
+O **Texto principal** (Desenvolvimento do trabalho, por exemplo, as seções Introdução, Material e Métodos, Resultados, Discussão e Conclusão, podendo-se utilizar outra estrutura caso o autor prefira) deve ser redigido em português, fonte Times New Roman, tamanho 12, formato do papel A4, com espaçamento 1,5, margens superior e esquerda de 2,5 cm e inferior e direita de 2,5 cm. O texto deverá ser digitado em modo "justificado". Solicitamos que utilizem o [template de envio](https://github.com/sicam-iee-usp/site-sicam-2026/raw/main/template_submissao.docx) preparado.
 
 Todos os tópicos (Resumo, Introdução, etc) deverão ser escritos em letras maiúsculas e em negrito, seguidos por dois pontos (:) e pelo texto, com início na mesma linha. O recuo do parágrafo deve ser de 1,25 cm. Os tópicos devem ser separados do final do texto anterior por por um ENTER, com espaçamento de 1,5 cm entre as linhas. **Não colocar o número das páginas** no arquivo.
 
@@ -51,7 +51,7 @@ O resumo expandido poderá conter até 5 elementos não textuais (gráficos, ima
 
 Para facilitar a formatação dos trabalhos pelos autores, a Comissão Organizadora do V SICAM também disponibilizou um template para a submissão:
 
-<center><a href="https://github.com/sicam-iee-usp/site-sicam-v2/raw/main/template_submissao.docx" target="_blank"><button type="button" class="btn btn-info">Clique aqui para acessar <br> o template de submissão</button></center>
+<center><a href="https://github.com/sicam-iee-usp/site-sicam-2026/raw/main/template_submissao.docx" target="_blank"><button type="button" class="btn btn-info">Clique aqui para acessar <br> o template de submissão</button></center>
 
 </a>
 
