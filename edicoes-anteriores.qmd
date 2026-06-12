@@ -3,6 +3,12 @@ title: "Edições anteriores"
 title-block-banner: true
 ---
 
+-   **V SICAM - V Simpósio Interdisciplinar de Ciência Ambiental**
+    -   Data: 21 à 23 de outubro de 2024
+    -   Confira os <a href="/anais-v-sicam-v2.pdf" target="_blank">Anais do V SICAM</a>
+
+------------------------------------------------------------------------
+
 -   **IV SICAM - IV Simpósio Interdisciplinar de Ciência Ambiental**
     -   Data: 24 à 26 de outubro de 2022
     -   Confira os <a href="/anais-iv-sicam.pdf" target="_blank">Anais do IV SICAM</a>
