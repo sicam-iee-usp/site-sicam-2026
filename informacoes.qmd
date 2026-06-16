@@ -32,21 +32,21 @@ A estação de metrô mais próxima da USP Campus Butantã é a estação "Butan
 
 Na estação Butantã existe um terminal de ônibus, e alguns deles passam próximo ao IEE:
 
--   Linha 8082 - Cid. Universitária - Metrô Butantã: Descer no ponto IPT (R\$4,40)
+-   Linha 8082 - Cid. Universitária - Metrô Butantã: Descer no ponto IPT (R\$5,30)
 
--   Linha 8084 - Cid. Universitária Circular - Descer no ponto Poli-Eletrônica (R\$4,40)
+-   Linha 8084 - Cid. Universitária Circular - Descer no ponto Poli-Eletrônica (R\$5,30)
 
 Outras Linhas de Ônibus - descer na Poli-Biênio:
 
--   177H-10 - Terminal Santana - Cidade Universitária (R\$4,40)
+-   177H-10 - Terminal Santana - Cidade Universitária (R\$5,30)
 
 -   280BI1 - São Bernardo (R\$13,05)
 
--   7181-10 - Terminal Princesa Isabel - Cidade Universitária (R\$4,40)
+-   7181-10 - Terminal Princesa Isabel - Cidade Universitária (R\$5,30)
 
--   7411-10 - Praça da Sé - Cidade Universitária (R\$4,40)
+-   7411-10 - Praça da Sé - Cidade Universitária (R\$5,30)
 
--   857R-10 - Barra Funda - Cidade Universitária (R\$4,40)
+-   857R-10 - Barra Funda - Cidade Universitária (R\$5,30)
 
 [Informações sobre as linhas de ônibus estão disponíveis no site da SPTrans](https://www.sptrans.com.br/)
 
@@ -56,7 +56,7 @@ A estação mais próxima é a "Cidade Universitária", da Linha 9 Esmeralda da 
 
 **Atenção**: é necessário atravessar uma ponte para entrar na USP, através da portaria de pedestres. É uma caminhada de aproximadamente 550 metros.
 
-Após entrar na USP pela portaria de pedestres, é possível pegar o ônibus 8082 (R\$4,40) e descer no ponto do IPT.
+Após entrar na USP pela portaria de pedestres, é possível pegar o ônibus 8082 (R\$5,30) e descer no ponto do IPT.
 
 ## Alimentação
 
