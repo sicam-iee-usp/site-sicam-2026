@@ -7,7 +7,7 @@ title-block-banner: true
 
 ### Ágata Graziele dos Santos Brito
 
--   Discente de doutorado no PROCAM
+-   Egressa do PROCAM
 -   Orientada por: Prof. Dr. Wagner Costa Ribeiro
 -   Email: [agatabrito\@usp.br](mailto:agatabrito@usp.br)
 -   Currículo Lattes: <http://lattes.cnpq.br/0131444454529370>
