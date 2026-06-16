@@ -34,13 +34,14 @@ website:
           - sobre-o-evento.qmd
           - equipe.qmd
           - edicoes-anteriores.qmd
+      - text: "Informações"
+        href: informacoes.qmd
       # As páginas abaixo serão atualizadas e re-adicionadas ao navbar quando
       # tivermos as informações do VI SICAM (2026):
       #   - submissao.qmd
       #   - grupos-tematicos.qmd
       #   - submissoes-aprovadas.qmd
       #   - programacao.qmd
-      #   - informacoes.qmd
       # - text: "Inscreva-se"
       #   href: "https://forms.gle/gpKEwHUSp4buPav17"
     left:
