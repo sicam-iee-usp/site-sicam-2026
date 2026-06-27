@@ -3,77 +3,35 @@ title: "Grupos temáticos"
 title-block-banner: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+Nesta sexta edição, o VI SICAM conta com 10 grupos temáticos, organizados em 3 eixos.
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
-<center><a href="/submissoes-aprovadas.qmd" ><button type="button" class="btn btn-info">Confira as submissões aprovadas </button></center>
-
-</a>
-
-Nesta quinta edição, o SICAM conta com 11 grupos temáticos.
-
-Acesse a página sobre [submissão de trabalhos](submissao.qmd) para saber mais sobre como submeter seu trabalho.
+::: callout-note
+A coordenação e a descrição de cada grupo temático, assim como as informações
+sobre submissão de trabalhos, serão divulgadas em breve.
+:::
 
 ## Eixo 1 - Conservação e Desenvolvimento Socioambiental
 
-#### GT 1: Ecologia Política, Decolonialidade e Justiça Climática
+#### GT 1: Economia Ambiental e Ecológica
 
--   **Coordenação:** [Pedro Roberto Jacobi](http://lattes.cnpq.br/6799067928413168)
--   **Descrição:** Aprofundar o olhar para abordagens críticas sobre os conflitos socioambientais pela perspectiva da Ecologia Política, com enfase em trabalhos que compartilhem reflexões sobre decolonialidade e apresentem a problemática da Justiça Climática em suas múltiplas escalas e territorialidades.
+#### GT 2: Povos e Comunidades Tradicionais e Originárias: a integração de saberes e a ciência ambiental
 
-#### GT 2: Povos e Comunidades Tradicionais e Originárias: a integração do saber local e da ciência
+#### GT 3: Gestão, conservação e impactos: Desafios para a sustentabilidade dos biomas brasileiros
 
--   **Coordenação:** [Roberto Adrian Ribaric](http://lattes.cnpq.br/8963365713272264)
--   **Descrição:** Propõe um diálogo entre os conhecimentos tradicionais de povos originários e comunidades locais e o saber científico, visando a troca de experiências, a valorização de saberes ancestrais e a construção de abordagens integradas para a conservação ambiental e a justiça social. O objetivo é promover a cooperação intercultural e prática que reconheçam e integrem essas diferentes formas de conhecimento.
+## Eixo 2 - Governança, Políticas e Impactos Socioambientais
 
-#### GT 3: Cidades Resilientes e Planejamento Urbano
+#### GT 4: Integridade da informação sobre mudanças do clima
 
--   **Coordenação:** [Guilherme Dias Pereira](http://lattes.cnpq.br/0552367482771773)
--   **Descrição:** Refletir sobre o papel das cidades para o enfrentamento do colapso socioambiental, promovendo a discussão de questões relacionadas à vulnerabilidades socioambientais, desigualdade, políticas públicas e gestão ambiental no processo de produção do espaço urbano
+#### GT 5: Governança, políticas públicas e direito socioambiental
 
-#### GT 4: Produção, Consumo e Resíduos Sólidos
+#### GT 6: Educação ambiental, climática e digital
 
--   **Coordenação:** [Gina Rizpah Besen](http://lattes.cnpq.br/8550871208092441)
--   **Descrição:** Promover um diálogo sobre o ciclo de produção, consumo e a destinação de resíduos sólidos, abordando os impactos sociais e ambientais associados, bem como estratégias de governança e políticas públicas.
+#### GT 7: Produção, consumo e gestão de resíduos sólidos
 
-#### GT 5: Governança e Uso dos Recursos Naturais
+#### GT 8: Cidades resilientes e planejamento urbano
 
--   **Coordenação:** [Lia Helena Monteiro de Lima Demange](http://lattes.cnpq.br/3773302272955782)
--   **Descrição:** Discutir temáticas relacionadas à governança ambiental e seus desafios frente às disputas pela apropriação da natureza. Promover um diálogo de saberes por meio da participação de diversos agentes políticos.
-
-#### GT 6: Economia Ecológica e Impactos Socioecológicos
-
--   **Coordenação:** [Bruno Portes](http://lattes.cnpq.br/2925874925850682)
--   **Descrição:** Promover um debate sobre a relação econômica e as suas consequências ambientais e a relação com a governança, tanto sob os pressupostos da Economia Ambiental quanto da Economia Ecológica. Promover um diálogo atual sobre este tema sob a perspectivas socioecologicas e de valores.
-
-## Eixo 2 - Governança, Políticas e Impactos Socioambiental
-
-#### GT 7: Políticas Públicas e Direito Socioambiental
-
--   **Coordenação:** [Ana Paula Fracalanza](http://lattes.cnpq.br/2494379445883981)
--   **Descrição:** Discutir temáticas relacionadas à formulação, implementação, avaliação e financiamento de políticas ambientais, assim como a gestão de políticas públicas em múltiplas escalas geográficas e níveis. Estabelecer um diálogo sobre a governança dos recursos naturais, considerando tanto os princípios da Economia Ambiental quanto da Economia Ecológica e abordar o ciclo de extração, produção, consumo e descarte de resíduos.
-
-#### GT 8: Comunicação, Educação Climática e Enfrentamento à desinformação
-
--   **Coordenação:** [Eduardo Geraque](http://lattes.cnpq.br/7131696220835072)
--   **Descrição:** Debater o enfrentamento à desinformação e discutir a compreensão do conceito das Fake News. Na seara socioambiental, abordar caminhos para que a comunicação possa colaborar com o enfrentamento da crise climática e todos os seus desdobramentos na sociedade.
-
-#### GT 9: Transformações Tecnológicas para a Ciência Ambiental
-
--   **Coordenação:** [Pedro Roberto Jacobi](http://lattes.cnpq.br/6799067928413168)
--   **Descrição:** Explorar o papel das inovações tecnológicas no avanço da ciência ambiental, discutindo como ferramentas podem contribuir para o monitoramento, conservação e gestão dos ecossistemas. O objetivo é fomentar a integração de tecnologias emergentes com pesquisas ambientais, promovendo soluções eficientes para os desafios ecológicos e climáticos contemporâneos.
+#### GT 9: Gestão de riscos de desastres e desinformação
 
 ## Eixo 3 - Análise Sociotécnica e Modelagem Socioambiental
 
-#### GT 10: Geotecnologias e Modelagem em Ciência Ambiental
-
--   **Coordenação:** [Jose Alberto Quintanilha](http://lattes.cnpq.br/1334398456531126)
--   **Descrição:**  Discutir as transformações ambientais a partir de uma abordagem multidimensional (ecológica, social, política e econômica), empregando geotecnologias e modelagem para prever impactos climáticos e embasar decisões. Objetiva integrar conhecimentos científicos e tecnológicos na busca de soluções para os desafios planetários atuais.
-
-#### GT 11: Inovação, Transformações e Transições para a Sustentabilidade
-
--   **Coordenação:** [Célio Bermann](http://lattes.cnpq.br/4429686299726303)
--   **Descrição:** Analisar fenômenos relacionados a ciclos biogeoquímicos, mudanças climáticas, dinâmicas de uso e ocupação do solo, dinâmicas oceânicas e transição energética, associados aos avanços tecnológicos e suas implicações socioambientais, a partir de inovações de engenharia e de geotecnologia fundamentadas nos ODS.
+#### GT 10: Inovações tecnológicas para a Ciência Ambiental
