@@ -11,9 +11,9 @@
   color: #FFFFFF;
   background: #304387;
   text-align: center;
-  background-image: url('img/SICAM-2026-temp.png'); /* Caminho para a imagem */  
+  background-image: url('img/logo-2026-1-low-res.png'); /* Caminho para a imagem */  
   background-size: contain; 
-  background-repeat: no-repeat; /* Evita que a imagem se repita */   height: 20em;
+  background-repeat: no-repeat; /* Evita que a imagem se repita */   height: 30em;
   background-position: center;    /* centraliza X e Y */
   
 }
