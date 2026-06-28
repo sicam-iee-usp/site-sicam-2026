@@ -12,6 +12,8 @@ Boas vindas ao SICAM! Aqui você encontrará informações necessárias para che
 
 O evento será 100% presencial, no Instituto de Energia e Ambiente da Universidade de São Paulo (IEE/USP).
 
+![Instituto de Energia e Ambiente - Universidade de São Paulo](img/iee-home.jpeg){fig-align="center" width="80%"}
+
 **Endereço:** Avenida Professor Luciano Gualberto, 1289, Cidade Universitária CEP 05508-010 - Butantã - São Paulo.
 
 <center>
