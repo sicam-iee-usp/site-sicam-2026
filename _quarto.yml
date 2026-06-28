@@ -10,9 +10,9 @@ project:
 website:
   # body-header: |
   #   ![Logo image](/img/logo.jpeg)
-  title: "VI SICAM"
+  title: "6º SICAM"
   page-footer:
-    center: "VI Simpósio Interdisciplinar de Ciência Ambiental - 2026"
+    center: "6º Simpósio Interdisciplinar de Ciência Ambiental - 2026"
     border: true
     background: dark
     right:
@@ -39,7 +39,7 @@ website:
       - text: "Informações"
         href: informacoes.qmd
       # As páginas abaixo serão atualizadas e re-adicionadas ao navbar quando
-      # tivermos as informações do VI SICAM (2026):
+      # tivermos as informações do 6º SICAM (2026):
       #   - submissao.qmd
       #   - submissoes-aprovadas.qmd
       #   - programacao.qmd

@@ -1,5 +1,5 @@
 ---
-title: "VI Simpósio Interdisciplinar de Ciência Ambiental"
+title: "6º Simpósio Interdisciplinar de Ciência Ambiental"
 title-block-banner: true
 include-in-header:
   # Esconde apenas o TEXTO do título na home (a logo do banner já mostra o

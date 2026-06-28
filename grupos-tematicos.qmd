@@ -3,7 +3,7 @@ title: "Grupos temáticos"
 title-block-banner: true
 ---
 
-Nesta sexta edição, o VI SICAM conta com 10 grupos temáticos, organizados em 3 eixos.
+Nesta sexta edição, o 6º SICAM conta com 10 grupos temáticos, organizados em 3 eixos.
 
 ::: callout-note
 A coordenação e a descrição de cada grupo temático, assim como as informações
