@@ -1,6 +1,24 @@
 ---
 title: "VI Simpósio Interdisciplinar de Ciência Ambiental"
 title-block-banner: true
+include-in-header:
+  # Esconde apenas o TEXTO do título na home (a logo do banner já mostra o
+  # nome do evento), mas mantém o <h1> no HTML para leitores de tela e SEO.
+  # O banner com a imagem de fundo continua porque o `title:` permanece.
+  text: |
+    <style>
+      #title-block-header .quarto-title-banner h1.title {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        margin: -1px;
+        overflow: hidden;
+        clip: rect(0, 0, 0, 0);
+        white-space: nowrap;
+        border: 0;
+      }
+    </style>
 listing:
   id: listing-posts
   contents: posts
