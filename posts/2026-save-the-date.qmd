@@ -2,7 +2,7 @@
 title: "Anote a data: VI SICAM 2026"
 author: "Comissão Organizadora"
 date: "2026-06-16"
-image: "img/logo_sem_texto.jpg"
+image: "../../img/logo-2026-2-low-res.png"
 ---
 
 O **VI Simpósio Interdisciplinar de Ciência Ambiental (VI SICAM)** vai acontecer nos dias **04, 05 e 06 de novembro de 2026**, de forma **presencial**, no Instituto de Energia e Ambiente da Universidade de São Paulo (IEE-USP).
