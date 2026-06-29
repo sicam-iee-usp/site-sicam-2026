@@ -49,7 +49,7 @@ Todos os tópicos (Resumo, Introdução, etc) deverão ser escritos em letras ma
 
 O resumo expandido poderá conter até 5 elementos não textuais (gráficos, imagens, quadros e desenhos), os quais devem seguir as regras do item "Elementos não textuais", que está ao final deste arquivo. Todos os elementos não-textuais devem ser citados no texto principal.
 
-Para facilitar a formatação dos trabalhos pelos autores, a Comissão Organizadora do V SICAM também disponibilizou um template para a submissão:
+Para facilitar a formatação dos trabalhos pelos autores, a Comissão Organizadora do 6º SICAM também disponibilizou um template para a submissão:
 
 <center><a href="https://github.com/sicam-iee-usp/site-sicam-2026/raw/main/template_submissao.docx" target="_blank"><button type="button" class="btn btn-info">Clique aqui para acessar <br> o template de submissão</button></center>
 
@@ -91,7 +91,7 @@ O **limite** máximo de trabalhos submetidos é de **3 (três) resumos expandido
 
 Recomenda-se aos autores que **evitem submissões em última hora** para evitar possíveis falhas de sistema ocasionadas por congestionamento (grande quantidade de usuários ao mesmo tempo).
 
-Em caso de dúvidas, escrever para a Comissão Organizadora do V SICAM, por meio do e-mail [**sicam.iee.usp\@gmail.com**](mailto:sicam.iee.usp@gmail.com).
+Em caso de dúvidas, escrever para a Comissão Organizadora do 6º SICAM, por meio do e-mail [**sicam.iee.usp\@gmail.com**](mailto:sicam.iee.usp@gmail.com).
 
 No ato da submissão, o autor deverá escolher a forma de apresentação oral do seu trabalho: com 10 minutos para exibição e 5 minutos para resposta às perguntas dos participantes; ou na forma de pôster.
 
