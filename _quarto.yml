@@ -63,3 +63,7 @@ format:
 editor: visual
 
 lang: pt
+
+language:
+  title-block-author-single: "Autoria"
+  title-block-author-plural: "Autoria"
