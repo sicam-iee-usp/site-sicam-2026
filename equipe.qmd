@@ -5,15 +5,6 @@ title-block-banner: true
 
 ## Comissão Organizadora
 
-### Ágata Graziele dos Santos Brito
-
--   Egressa do PROCAM
--   Orientada por: Prof. Dr. Wagner Costa Ribeiro
--   Email: [agatabrito\@usp.br](mailto:agatabrito@usp.br)
--   Currículo Lattes: <http://lattes.cnpq.br/0131444454529370>
-
-> Possui graduação em Relações Internacionais pelo Centro Universitário FECAP (2013) e mestrado em Ciência Política pela Universidade de São Paulo (2018). Tem experiência na área de Ciência Política, com ênfase em Política Internacional, atuando principalmente no seguinte tema: china. estados unidos, mudanças climáticas. Atualmente Doutoranda no Instituto de Energia e Ambiente da Universidade de São Paulo, no Programa de Ciências Ambientais (PROCAM). Pesquisadora no Grupo de Pesquisa Geografia Politica e Meio Ambiente do laboratório de Geografia Política (GEOPO), WATERLAT/GOBACIT, Rede de pesquisa geografia das águas. Tem interesse especial nas áreas de relações internacionais, meio ambiente, hidropolítica e cooperação transfronteriça, desenvolvimento sustentável, governança ambiental e política ambiental internacional.
-
 ### Agnes de Oliveira Franco
 
 -   Discente de doutorado no PROCAM
@@ -32,25 +23,6 @@ title-block-banner: true
 
 > Doutora no Programa de Pós-Graduação em Ciência Ambiental, no Instituto de Energia e Ambiente - Universidade de São Paulo (PROCAM/IEE/USP), com bolsa FAPESP no período entre 05/2019 à 01/2022 (18/23771-6). Mestre em Ciências (2018) pelo Programa de Pós-Graduação em Análise Ambiental Integrada - Universidade Federal de São Paulo (UNIFESP). Bacharel em Gestão Ambiental (2015) pela Escola de Artes, Ciências e Humanidades da Universidade de São Paulo (EACH/USP). Faz parte da equipe da Secretaria Executiva da Revista Ambiente Sociedade (2018-atualmente). Editora associada na ROpenSci (Software peer review editor). Participou como pesquisadora no Projeto Temático FAPESP: Governança Ambiental na Macrometrópole Paulista face à variabilidade climática (Processo: 2015/03804-9). É co-organizadora da comunidade R-Ladies São Paulo desde outubro de 2018.
 
-### Gabriel Bernardes Fonseca Diório Menegazzo
-
--   Discente de mestrado no PROCAM
--   Orientado por: Profa. Dra. Ana Paula Fracalanza
--   Email: [gabrielmenegazzo\@usp.br](mailto:gabrielmenegazzo@usp.br)
--   Currículo Lattes: <http://lattes.cnpq.br/3994152994723081>
-
-> Possui graduação em Direito e especialização em Direito Ambiental, ambas pela Universidade Federal do Paraná (UFPR). Mestrando pelo Programa de Pós-Graduação em Ciência Ambiental (PROCAM) do Instituto de Energia e Ambiente da Universidade de São Paulo (IEE-USP). Estuda políticas públicas ambientais, a regulação jurídica da natureza e o papel do conhecimento científico no processo de tomadas de decisões institucionais. Atualmente é Residente Jurídico no Centro de Apoio as Promotorias de Meio Ambiente, Habitação e Urbanismo (CAOPMAHU) do Ministério Público do Estado do Paraná.
-
-### Henrique Castro Barbosa
-
--   Discente de mestrado no PROCAM
--   Orientado por: Prof. Dr. Wagner Costa Ribeiro
--   Email: [henrique.castro.barbosa\@usp.br](mailto:henrique.castro.barbosa@usp.br)
--   Currículo Lattes: <http://lattes.cnpq.br/6020026257271594>
-
-> Geógrafo formado pela FFLCH/USP em 2021. Atualmente mestrando no Programa de Pós-Graduação em Ciência Ambiental, PROCAM-SP. Pesquisa governança em cenários de conflito hídrico trasnfronteiriço entre Brasil e Uruguai, tema o qual se debruça desde a Iniciação Científica na graduação. Também tem formação de jornalista pela Faculdade Cásper Líbero, com experiência em redação.
-
-
 ### Tainá Ângela Vedovello Bimbati
 
 -   Discente de doutorado no PROCAM
@@ -60,23 +32,6 @@ title-block-banner: true
 
 > Engenheira Ambiental pela Faculdade Municipal Prof. Franco Montoro (2013), Mestra em Engenharia Civil pelo Departamento de Saneamento e Ambiente da Faculdade de Engenharia Civil, Arquitetura e Urbanismo da Universidade Estadual de Campinas (FECFAU/UNICAMP) (2017) e Doutoranda pelo Programa de Pós-Graduação em Ciência Ambiental (PROCAM) do Instituto de Energia e Ambiente da Universidade de São Paulo (IEE-USP). Possui mais de 10 anos de experiência em consultoria e pesquisa em resíduos sólidos, coleta seletiva, logística reversa, inclusão de catadores de materiais recicláveis em ações de responsabilidade compartilhada e reciclabilidade.
 
-### Vanessa Victor da Cruz de Souza
-
--   Egressa do PROCAM
--   Orientada por: Profa. Dra. Ana Paula Fracalanza
--   Email: [nessavictor\@usp.br](mailto:nessavictor@usp.br)
--   Currículo Lattes: <http://lattes.cnpq.br/0519890571067525>
-
-> Possui formação em Geografia pela UNIMONTES, mestrado em Administração e Sustentabilidade pela UNINOVE, e doutorado em Ciências pelo Programa de Pós-Graduação em Ciência Ambiental (PROCAM) do IEE. Atualmente, realiza pós-doutorado no IEE, na linha de pesquisa em Governança, Impacto e Modelagem Socioambiental.
-
-### Vítor Soares Miceli
-
--   Discente de mestrado no PROCAM
--   Orientado por: Profa. Dra. Silvia Helena Zanirato
--   Email: [vitor.miceli\@usp.br](mailto:vitor.miceli@usp.br)
--   Currículo Lattes: <http://lattes.cnpq.br/8149133101946503>
-
-> Arquiteto Urbanista formado pela FAU/USP em 2021. Ao longo da graduação integrou o coletivo extensionista estudantil autogerido FAU Social. Realizou Iniciação Científica sobre hortas urbanas. Participou de outros trabalhos científicos, com destaque para a Plataforma Periferias, pela Cátedra Olavo Setubal no IEA-USP. Possui experiência profissional em escritórios de arquitetura. Em 2023 inicia o mestrado no Instituto de Energia e Ambiente pelo Programa de Pós-Graduação em Ciência Ambiental, PROCAM-USP, com a pesquisa Adaptação às Mudanças Climáticas – PanClima. Aplicabilidade em área de risco na cidade de São Paulo. É colaborador da ONG de divulgação científica Projeto Ruptura e do grupo de pesquisa GEURBAM.
 
 ## Comitê Científico
 
