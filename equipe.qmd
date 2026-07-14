@@ -14,6 +14,10 @@ title-block-banner: true
 
 > Jornalista especializada em Políticas Públicas, mestre em Política Trabalhista (ciências políticas) e Globalização (economia) pela Universidade de Kassel e Universidade de Economia e Direito de Berlim, via Universidade Global do Trabalho (https://global-labour-university.org/). Doutoranda em Ciências Ambientais (PROCAM-USP). Pesquisa Transição Justa, negacionismo e desinformação climática e ambiental. Trabalha com diversas vertentes da agenda socioambiental, área em que atua há mais de vinte anos. Tem boa experiência com formação, relações internacionais, gerenciamento e comunicação.
 
+### Anelise Gomes
+
+Em breve.
+
 ### Beatriz Milz
 
 -   Egressa do PROCAM
@@ -32,6 +36,8 @@ title-block-banner: true
 
 > Doutoranda no Programa de Pós-Graduação em Ciência Ambiental (PROCAM, IEE-USP). Mestre em Design pela Universitat Politècnica de Catalunya (UPC, 2019). Graduada em Arquitetura e Urbanismo pela Universidade de São Paulo (FAU-USP, 2012), com intercâmbio na Universidad Politécnica de Madrid (ETSAM-UPM, 2011). Desenvolve projetos e pesquisas que abordam tópicos relacionados a design ecológico, regeneração urbana e rural, design participativo, fabricação digital, cultura material e compartilhamento de conhecimentos.
 
+<!-- Henrique: nome completo e demais informações a completar -->
+
 ### Isabela Carmo Cavaco
 
 -   Discente de doutorado no PROCAM
@@ -40,6 +46,14 @@ title-block-banner: true
 -   Currículo Lattes: <http://lattes.cnpq.br/0124986877086141>
 
 > Bacharel em Gestão Ambiental pela EACH/USP (2023), mestre (2025) e doutoranda em Ciência Ambiental pelo IEE/USP. Pesquisa os significados da justiça climática desde 2022, com foco em populações vulnerabilizadas no Brasil, racismo ambiental, e interseccionalidade de raça, gênero e classe. Realizou intercâmbio de 3 meses nos Países Baixos, na Universidade de Groningen, onde estudou o ativismo jovem por justiça climática. Atualmente pesquisa planejamento territorial e recuperação de áreas de preservação permanente na zona sul da cidade de São Paulo, sob a lente de justiça climática.
+
+### Lucas Monteiro
+
+Em breve.
+
+### Lucas Teixeira
+
+Em breve.
 
 ### Luiz Guilherme Ferreira Pires
 
@@ -74,6 +88,12 @@ title-block-banner: true
 
 > Mestranda em Ciência Ambiental pelo Instituto de Energia e Ambiente da Universidade de São Paulo (IEE-USP), com projeto sobre comitê de bacia hidrográfica e gestão de risco de secas. Pesquisadora bolsista pela FAPESP. Participa como voluntária no projeto de extensão "Atuação da UFABC como Sociedade Civil no Comitê de Bacia Hidrográfica do Alto Tietê". Bacharela em Geografia pela Faculdade de Filosofia, Letras e Ciências Humanas (FFLCH-USP). Possui experiências de estágio em órgãos ambientais e de pesquisa nos níveis municipal e estadual. Interesses de pesquisa: governança da água, gestão de risco de desastres, políticas públicas ambientais e eventos hidroclimáticos extremos.
 
+<!-- Raul: nome completo e demais informações a completar -->
+
+### Rosana Macedo Borges
+
+Em breve.
+
 ### Tainá Ângela Vedovello Bimbati
 
 -   Discente de doutorado no PROCAM
@@ -82,8 +102,6 @@ title-block-banner: true
 -   Currículo Lattes: <http://lattes.cnpq.br/0417333466889749>
 
 > Engenheira Ambiental pela Faculdade Municipal Prof. Franco Montoro (2013), Mestra em Engenharia Civil pelo Departamento de Saneamento e Ambiente da Faculdade de Engenharia Civil, Arquitetura e Urbanismo da Universidade Estadual de Campinas (FECFAU/UNICAMP) (2017) e Doutoranda pelo Programa de Pós-Graduação em Ciência Ambiental (PROCAM) do Instituto de Energia e Ambiente da Universidade de São Paulo (IEE-USP). Possui mais de 10 anos de experiência em consultoria e pesquisa em resíduos sólidos, coleta seletiva, logística reversa, inclusão de catadores de materiais recicláveis em ações de responsabilidade compartilhada e reciclabilidade.
-
-*Outras pessoas também integram a comissão organizadora e terão suas informações divulgadas em breve: Anelise Gomes, Henrique, Lucas Monteiro, Lucas Teixeira, Raul e Rosana Macedo Borges.*
 
 ## Comitê Científico
 
