@@ -30,8 +30,10 @@ sobre submissão de trabalhos, serão divulgadas em breve.
 
 #### GT 8: Cidades resilientes e planejamento urbano
 
-#### GT 9: Gestão de riscos de desastres e desinformação
+#### GT 9: Justiça climática, adaptação e planejamento territorial
+
+#### GT 10: Gestão de riscos de desastres e desinformação
 
 ## Eixo 3 - Análise Sociotécnica e Modelagem Socioambiental
 
-#### GT 10: Inovações tecnológicas para a Ciência Ambiental
+#### GT 11: Inovações tecnológicas para a Ciência Ambiental
