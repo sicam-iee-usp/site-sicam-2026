@@ -5,9 +5,9 @@ date: "2026-06-30"
 image: "../../img/logo-2026-1-low-res.png"
 ---
 
-Já estão definidos os **10 Grupos Temáticos (GTs)** do 6º SICAM, organizados em **3 eixos temáticos**!
+Já estão definidos os **11 Grupos Temáticos (GTs)** do 6º SICAM, organizados em **3 eixos temáticos**!
 
-Os GTs abrangem temas como economia ambiental e ecológica, povos e comunidades tradicionais, integridade da informação sobre o clima, governança e políticas socioambientais, educação ambiental, cidades resilientes, gestão de riscos de desastres e inovações tecnológicas para a Ciência Ambiental.
+Os GTs abrangem temas como economia ambiental e ecológica, povos e comunidades tradicionais, integridade da informação sobre o clima, governança e políticas socioambientais, educação ambiental, cidades resilientes, gestão de riscos de desastres, justiça climática e inovações tecnológicas para a Ciência Ambiental.
 
 A **coordenação**, a **descrição de cada GT** e as **informações sobre submissão de trabalhos** serão divulgadas em breve.
 
