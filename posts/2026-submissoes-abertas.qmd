@@ -5,11 +5,11 @@ date: "2026-07-24"
 image: "../../img/logo-2026-1-low-res.png"
 ---
 
-As **submissões de trabalhos** para o 6º SICAM estão **abertas**! 🎉
+As **submissões de trabalhos** para o 6º SICAM estão **abertas**!
 
 Os trabalhos são submetidos como **resumo expandido**, dentro dos **Grupos Temáticos (GTs)** do evento, e os aprovados serão apresentados na forma de apresentação oral.
 
-📅 **Fique de olho nos prazos:**
+**Fique de olho nos prazos:**
 
 - **Início das submissões:** 24/07/2026
 - **Prazo final:** 23/09/2026
