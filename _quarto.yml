@@ -26,6 +26,7 @@ website:
         href: mailto:sicam.iee.usp@gmail.com
   navbar:
     logo: "img/logo-2026-sem-titulo-low-res.png"
+    title: "SICAM"
     right:
       - text: "Página inicial"
         href: "https://sicam.com.br"
