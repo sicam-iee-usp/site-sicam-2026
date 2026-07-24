@@ -5,35 +5,63 @@ title-block-banner: true
 
 Nesta sexta edição, o 6º SICAM conta com 11 grupos temáticos, organizados em 3 eixos.
 
-::: callout-note
-A coordenação e a descrição de cada grupo temático, assim como as informações
-sobre submissão de trabalhos, serão divulgadas em breve.
-:::
-
 ## Eixo 1 - Conservação e Desenvolvimento Socioambiental
 
 #### GT 1: Economia Ambiental e Ecológica
 
+-   **Coordenação:** [Paulo Sinisgalli](http://lattes.cnpq.br/1758254967187398) (PROCAM) e [Alexandre Igari](http://lattes.cnpq.br/5667978492643705) (EACH)
+-   **Descrição:** Promover um debate sobre os pressupostos, interfaces e desafios da Economia Ambiental e da Economia Ecológica nas relações entre o sistema econômico, sociedade e meio ambiente. Serão aceitos trabalhos sobre fluxos de energia e matéria, distribuição equitativa dos recursos naturais, capital natural, mercados e limites ecológicos, finanças sustentáveis e financiamento climático, valorações de serviços ecossistêmicos, impactos ou ativos ambientais, instrumentos econômicos para a sustentabilidade, políticas públicas e demais temas relacionados à economia ambiental e ecológica. O GT pretende estimular o diálogo entre diferentes áreas do conhecimento, contribuindo para o avanço de abordagens voltadas à sustentabilidade e à transição para modelos de desenvolvimento compatíveis com os limites ecológicos.
+
 #### GT 2: Povos e Comunidades Tradicionais e Originárias: a integração de saberes e a ciência ambiental
 
+-   **Coordenação:** [Sueli Furlan](http://lattes.cnpq.br/8238156832489494) (PROCAM)
+-   **Descrição:** Propõe uma reflexão sobre os processos de coprodução de conhecimento em pesquisas transdisciplinares que envolvam saberes de povos e comunidades tradicionais e locais (sensu IPBES). Estes são reconhecidos por ampliarem nossa capacidade de compreensão e enfrentamento dos desafios socioambientais do Antropoceno, mas ainda são muitos os desafios para desenvolver formas legítimas, transparentes e construtivas de criar sinergias entre sistemas de conhecimento. O objetivo do GT é promover uma cooperação intercultural e prática que reconheça e integre diferentes formas de coprodução de conhecimento para a conservação ambiental, a sustentabilidade e o fortalecimento dos direitos, territórios e modos de vida de povos e comunidades tradicionais e locais. Serão acolhidos trabalhos que abordem coprodução do conhecimento, governança participativa de sistemas socioecológicos, e outras perspectivas que valorizem a pluralidade epistemológica e os processos democráticos de tomada de decisão.
+
 #### GT 3: Gestão, conservação e impactos: Desafios para a sustentabilidade dos biomas brasileiros
+
+-   **Coordenação:** [Carla Morsello](http://lattes.cnpq.br/4710295079878737) (PROCAM) e [Daniel Rondinelli Roquetti](http://lattes.cnpq.br/4861248614487256) (USP São Carlos)
+-   **Descrição:** Propõe uma reflexão sobre a gestão e conservação dos biomas brasileiros e uso sustentável de recursos naturais. Serão aceitos trabalhos que abordem aspectos teóricos, conceituais e metodológicos do planejamento ambiental, como a Avaliação de Impacto Ambiental (AIA), licenciamento ambiental, monitoramento e mitigação de impactos, gestão de áreas protegidas. Serão aceitos ainda trabalhos sobre a formulação, implementação e avaliação de políticas, planos, programas e projetos, considerando suas implicações para a conservação da biodiversidade, a gestão dos recursos naturais, a proteção dos ecossistemas e o desenvolvimento sustentável em diferentes escalas territoriais. Esperam-se contribuições que dialoguem com políticas públicas, instrumentos de controle e novas metodologias de análise de impactos, visando fortalecer o diálogo entre a academia, órgãos gestores e a sociedade civil.
 
 ## Eixo 2 - Governança, Políticas e Impactos Socioambientais
 
 #### GT 4: Integridade da informação sobre mudanças do clima
 
+-   **Coordenação:** [Karina Yamamoto](http://lattes.cnpq.br/8678132374225787) (IEA/USP) e [Simão Faria](http://lattes.cnpq.br/8472860419568022) (UFRR)
+-   **Descrição:** Nos dias atuais, fotos, vídeos, áudios, dados e textos podem ser utilizados como verdadeiras armas informacionais. A desinformação climática cresce em meio à intensificação dos eventos extremos e à disputa por políticas públicas ambientais, colocando em circulação conteúdos fraudulentos, distorções, falsas controvérsias e ataques à ciência. Nem mesmo artigos científicos revisados por pares estão ilesos de conter ou reproduzir desinformação. Este GT debate o enfrentamento à desinformação climática e tensiona: afinal, que recursos temos para garantir a integridade da informação sobre a mudança global do clima? Que interesses políticos, econômicos e institucionais movem quem produz ou propaga notícias fraudulentas sobre o tema? Que possíveis armadilhas devemos observar ao fazer pesquisa nesse campo? Casos empíricos e teorias que discutam desafios, riscos e oportunidades para essas reflexões são bem-vindos neste GT.
+
 #### GT 5: Governança, políticas públicas e direito socioambiental
+
+-   **Coordenação:** [Pedro Jacobi](http://lattes.cnpq.br/6799067928413168) (PROCAM) e [Ana Paula Fracalanza](http://lattes.cnpq.br/2494379445883981) (PROCAM) 
+-   **Descrição:** Sistemas de mecanismos e princípios das instituições para gestão, tomada de decisão e envolvimento de múltiplos atores, com foco em objetivos de interesse ambiental e climático, enfrentam desafios e problemas complexos, assim como políticas públicas e instrumentos de regulação social. Este GT discute temáticas relacionadas à governança dos recursos naturais e de instituições, bem como financiamentos voltados para o ambiente e o clima, políticas públicas e a proteção de direitos e bens socioambientais. Tendo como norte a interdisciplinaridade, contempla pesquisas em áreas como: Administração Pública, Direito, Gestão Ambiental e Gestão de Políticas Públicas.
 
 #### GT 6: Educação ambiental, climática e digital
 
+-   **Coordenação:** [Leila Vendrameto](http://lattes.cnpq.br/1171339938886207) (PROCAM) e [Evandro Albiach Branco](http://lattes.cnpq.br/7492853195439690) (INPE) 
+-   **Descrição:** Propõe dialogar sobre os desafios e as potencialidades da educação ambiental, climática e digital na construção de sociedades mais sustentáveis, justas e resilientes. Serão acolhidos trabalhos sobre processos educativos formais, não formais e informais, metodologias inovadoras, letramento climático e digital, educação para a sustentabilidade, comunicação e divulgação científica, uso de tecnologias digitais e inteligência artificial, cultura, inclusão e cidadania digital, bem como iniciativas que fortaleçam o vínculo entre sociedade e natureza, a participação social, o enfrentamento das desigualdades e do racismo ambiental, a promoção da justiça climática e socioambiental e a construção de estratégias de adaptação às mudanças climáticas. São também temas de interesse do GT, estudos voltados às políticas públicas de educação ambiental, incluindo aspectos relacionados à governança, implementação, monitoramento e avaliação de políticas e programas, ampliando o diálogo entre as dimensões pedagógica e político-institucional da área. O GT busca fortalecer o diálogo interdisciplinar entre pesquisadores, educadores, gestores e demais atores sociais, promovendo práticas educativas críticas, colaborativas e comprometidas com a transformação social e a construção de respostas coletivas aos desafios socioambientais contemporâneos.
+
 #### GT 7: Produção, consumo e gestão de resíduos sólidos
+
+-   **Coordenação:** [Sylmara Gonçalves Dias](http://lattes.cnpq.br/6059048919993035) (EACH-PROCAM/USP) e [Gina Rizpah](http://lattes.cnpq.br/8550871208092441) (PROCAM)
+-   **Descrição:** Propõe discutir criticamente as relações entre produção, consumo e geração de resíduos como fenômenos complexos e multidimensionais que envolvem múltiplos atores, interesses, escalas e disputas de poder. A gestão dos resíduos reflete modelos de desenvolvimento, padrões de consumo, formas de apropriação de recursos e desigualdades socioambientais, exigindo políticas e processos de governança que articulem diferentes setores e responsabilidades. O GT acolhe contribuições sobre governança, políticas públicas, coleta seletiva, reciclagem, logística reversa, economia circular e inclusão socioprodutiva, buscando compreender como tais dinâmicas influenciam na gestão dos resíduos em diferentes contextos socioambientais.
 
 #### GT 8: Cidades resilientes e planejamento urbano
 
+-   **Coordenação:** [Silvia Zanirato](http://lattes.cnpq.br/7528395569826025) (PROCAM) 
+-   **Descrição:** As cidades concentram parte significativa dos impactos das mudanças climáticas e enfrentam desafios relacionados à urbanização, à ocupação do solo, à infraestrutura, à mobilidade e à exposição crescente a eventos extremos. Nesse contexto, o planejamento urbano desempenha papel central na construção de cidades mais resilientes, sustentáveis e habitáveis. Este Grupo Temático reúne trabalhos que abordem o planejamento, o desenho, a gestão e a governança do espaço urbano, incluindo instrumentos urbanísticos, infraestrutura urbana, mobilidade, drenagem, infraestrutura verde e azul, gestão de riscos e desastres e estratégias de adaptação incorporadas às políticas urbanas. O foco do GT recai sobre intervenções, políticas e experiências voltadas à qualificação do ambiente urbano e ao fortalecimento da resiliência das cidades frente às mudanças climáticas.
+
 #### GT 9: Justiça climática, adaptação e planejamento territorial
 
+-   **Coordenação:** [Pedro Torres](http://lattes.cnpq.br/4299440848442844) (PROCAM)
+-   **Descrição:** A produção desigual do espaço condiciona a distribuição desigual dos riscos ambientais, das vulnerabilidades e das oportunidades de adaptação às mudanças climáticas, frequentemente reproduzindo processos de injustiça e racismo ambiental. Assim, eventos climáticos extremos intensificam vulnerabilidades historicamente construídas, tornando indispensáveis abordagens que integrem justiça climática, adaptação às mudanças climáticas, redução de riscos de desastres, planejamento territorial e governança democrática. Este Grupo Temático acolhe trabalhos que analisem criticamente as relações entre produção do espaço, mudanças climáticas, desigualdades socioambientais e políticas públicas, bem como pesquisas sobre planejamento e gestão territorial, governança climática, participação social, Soluções Baseadas na Natureza, infraestrutura verde e outras estratégias voltadas à adaptação climática justa e à transformação dos territórios. Também são bem-vindas contribuições que reconheçam a pluralidade de formas de compreender, habitar e transformar os territórios, valorizando conhecimentos científicos, saberes locais e ancestrais, ecologias populares urbanas e perspectivas pluriversais construídas por comunidades periféricas, tradicionais e povos originários, ampliando as possibilidades de enfrentamento da crise climática.
+
 #### GT 10: Gestão de riscos de desastres e desinformação
+
+-   **Coordenação:** Débora Olivato (CEMADEN/MCTI)
+-   **Descrição:** A propagação de desinformação em momentos críticos compromete severamente a eficácia da gestão pública e a resiliência das comunidades. Ante a iminência de eventos climáticos extremos, especialmente associados à previsão do El Niño 2026-2027, o combate ao negacionismo e às fake news torna-se um pilar vital da gestão de riscos e adaptação às mudanças climáticas. Este GT convida trabalhos que analisem a intersecção entre mudanças do clima e comunicação, processos educativos e comportamento humano abordando estratégias de prevenção, gestão pública diante de desastres socioambientais e o impacto da desinformação na percepção de risco. Serão bem vindas pesquisas que tratam da articulação entre ciência, informação e governança, visando fortalecer as capacidades para a prevenção e preparação das respostas individuais e coletivas.
 
 ## Eixo 3 - Análise Sociotécnica e Modelagem Socioambiental
 
 #### GT 11: Inovações tecnológicas para a Ciência Ambiental
+
+-   **Coordenação:** [Beatriz Milz](http://lattes.cnpq.br/5150665880581477) (UFABC/PROCAM) 
+-   **Descrição:** Refletir sobre ferramentas tecnológicas na produção da ciência ambiental, em estudos empíricos e teóricos, desde as já estabelecidas na área, como o geoprocessamento (com softwares como o QGIS), até inovações, como a ciência de dados ambientais por meio de programação (com linguagens como R e Python) e o uso de inteligência artificial em diferentes etapas da pesquisa: concepção, desenvolvimento, revisão, coleta de dados, análise e monitoramento. O debate também pretende contemplar o uso crítico da IA no processo de produção de conhecimento, considerando limites éticos e tecnológicos.
