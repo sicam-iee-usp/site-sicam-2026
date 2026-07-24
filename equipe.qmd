@@ -18,6 +18,7 @@ title-block-banner: true
 
 -   Egressa do PROCAM
 -   Orientada por: Prof. Dr. Paulo Sinisgalli
+-   Email: [anelisegsilva\@alumni.usp.br](mailto:anelisegsilva@alumni.usp.br)
 -   Currículo Lattes: <http://lattes.cnpq.br/9933001298697288>
 
 > Doutora em Ciência Ambiental pelo Instituto de Energia e Ambiente (IEE) da Universidade de São Paulo (USP), com estágio de pesquisa na Faculdade de Ciências e Tecnologia da Universidade NOVA de Lisboa (Portugal). Mestre em Ciências da Engenharia Ambiental pelo Programa de Pós-Graduação em Ciências da Engenharia Ambiental (PPG-SEA/USP) e graduada em Ciências Sociais, com ênfase em Ciência Política e Sociologia pela Universidade Federal de São Carlos (UFSCar). Atua na interface entre políticas públicas e meio ambiente, com ênfase em pesquisas aplicadas à governança ambiental, instrumentos econômicos de política ambiental e valoração econômica dos serviços ecossistêmicos. As áreas de interesse incluem: Políticas Públicas; Processos Decisórios; Avaliação de Políticas; Governança; Instrumentos de Política Ambiental; Valoração Econômica Ambiental; Economia do Meio Ambiente.
@@ -40,8 +41,6 @@ title-block-banner: true
 
 > Doutoranda no Programa de Pós-Graduação em Ciência Ambiental (PROCAM, IEE-USP). Mestre em Design pela Universitat Politècnica de Catalunya (UPC, 2019). Graduada em Arquitetura e Urbanismo pela Universidade de São Paulo (FAU-USP, 2012), com intercâmbio na Universidad Politécnica de Madrid (ETSAM-UPM, 2011). Desenvolve projetos e pesquisas que abordam tópicos relacionados a design ecológico, regeneração urbana e rural, design participativo, fabricação digital, cultura material e compartilhamento de conhecimentos.
 
-<!-- Henrique: nome completo e demais informações a completar -->
-
 ### Isabela Carmo Cavaco
 
 -   Discente de doutorado no PROCAM
@@ -60,9 +59,11 @@ title-block-banner: true
 
 > Bacharel Interdisciplinar em Ciência e Tecnologia com ênfase no mar (BICT-Mar) e Mestre em Ciências pela Universidade Federal de São Paulo (UNIFESP). Atuou como Analista Ambiental no projeto de pesquisa Canta Galo da Universidade de São Paulo (USP) e na empresa GreenWaveClean. É pesquisador colaborador do Centro de Capacitação e Pesquisa em Meio Ambiente (CEPEMA - POLI -USP) e do Laboratório de Florestas, Clima e CIdades (LFC) da Escola de Engenharia de Lorena (EEL/USP). Tem experiência na área de Educação Ambiental, Ensino básico de ciências, Ecotoxicologia, Gerenciamento de áreas contaminadas (GAC), Ciências Ambientais e Ciências do Mar. Atualmente, é bolsista FAPESP e doutorando no Programa de Pós Graduação em Ciência Ambiental do Instituto de Energia e Ambiente da Universidade de São Paulo (IEE/USP) com pesquisa na área de Arborização Urbana, com base na regra 3-30-300, e a sua relação com a poluição atmosférica.
 
-### Lucas Teixeira
+### Lucas Teixeira Leite de Souza
 
-Em breve.
+-   Egresso do PROCAM
+-   Email: [lucas.teixeira.souza\@alumni.usp.br](mailto:lucas.teixeira.souza@alumni.usp.br)
+-   Currículo Lattes: <http://lattes.cnpq.br/5193905141785516>
 
 ### Luiz Guilherme Ferreira Pires
 
@@ -87,6 +88,8 @@ Em breve.
 -   Egresso do PROCAM
 -   Email: [pablo.papito\@gmail.com](mailto:pablo.papito@gmail.com)
 -   Currículo Lattes: <http://lattes.cnpq.br/8050433813858734>
+
+> Bacharel em Gestão Ambiental, mestre e doutor em Ciência Ambiental pela USP, desenvolve pesquisas em valoração de serviços ecossistêmicos e metodologias de valoração. Atuou por muitos anos em grandes empresas e consultorias internacionais na área de sustentabilidade corporativa e atualmente é pesquisador de pós-doutorado, associado ao Instituto de Energia e Ambiente (IEE) da USP, dedicando-se à pesquisa sobre serviços ecossistêmicos de arborização urbana, em linha com estratégias e objetivos do PlaNAU (Plano Nacional de Arborização Urbana).
 
 > Bacharel em Gestão Ambiental,  mestre e doutor em Ciência Ambiental pela USP, desenvolve pesquisas em valoração de serviços ecossistêmicos e metodologias de valoração. Atuou por muitos anos em grandes empresas e consultorias internacionais na área de sustentabilidade corporativa e atualmente é pesquisador de pós doutorado, associado ao Instituto de Energia e Ambiente - IEE - da USP, dedicando-se à pesquisa sobre serviços ecossistêmicos de arborização urbana, em linha com estratégias e objetivos do PlaNAU (Plano nacional de Arborização urbana).
 
