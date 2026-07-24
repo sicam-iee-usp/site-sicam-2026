@@ -65,7 +65,7 @@ Em seguida, apresentar as **Referências**, as quais devem seguir a norma da ABN
 
 Os trabalhos serão submetidos via **plataforma do Even3**.
 
-<center><a href="https://www.even3.com.br/6o-sicam-a-integridade-da-informacao-e-a-ciencia-ambiental-755533/" target="_blank"><button type="button" class="btn btn-info">Acesse a plataforma de submissão (Even3)</button></a></center>
+<center><a href="https://www.even3.com.br/6o-sicam-755533/" target="_blank"><button type="button" class="btn btn-info">Acesse a plataforma de submissão (Even3)</button></a></center>
 
 No ato da submissão do resumo expandido, deverão ser enviados dois arquivos: um em formato **\*.pdf sem os nomes dos autores** (para permitir a avaliação cega por parte dos avaliadores) e outro em formato **word** (\*.doc ou \*.docx) **com os nomes e filiações dos autores** (este será publicado nos anais no caso de aceite).
 
@@ -100,6 +100,6 @@ Cada apresentação terá duração de **10 minutos** para exposição do trabal
 
 A inscrição no evento é **obrigatória** para todos os participantes, inclusive os autores que apresentarão trabalhos. A inscrição poderá ser feita após o resultado do parecer do trabalho submetido.
 
-<center><a href="https://www.even3.com.br/6o-sicam-a-integridade-da-informacao-e-a-ciencia-ambiental-755533/" target="_blank"><button type="button" class="btn btn-info">Inscreva-se no evento (Even3)</button></a></center>
+<center><a href="https://www.even3.com.br/6o-sicam-755533/" target="_blank"><button type="button" class="btn btn-info">Inscreva-se no evento (Even3)</button></a></center>
 
 O autor responsável pela apresentação deverá se inscrever no evento. Caso o autor responsável pela apresentação tenha algum imprevisto e não possa participar do evento, o mesmo deverá solicitar que outro autor faça a inscrição para a apresentação ou deverá informar à Comissão Organizadora que o trabalho não será apresentado, pelo e-mail [**sicam.iee.usp\@gmail.com**](mailto:sicam.iee.usp@gmail.com).
