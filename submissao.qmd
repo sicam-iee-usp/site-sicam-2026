@@ -13,8 +13,6 @@ toc: true
 |------------------------|------------------------------------------------|
 | 24/07/2026 | Abertura das submissões de trabalhos |
 | 21/09/2026 | Prazo final para submissão de trabalhos |
-| 16/10/2026 | Data prevista para divulgação dos resultados dos trabalhos submetidos |
-| 23/10/2026 | Data limite para inscrição de autores que apresentarão os trabalhos aprovados |
 | 28/10/2026 | Data limite para inscrição de participantes ouvintes |
 
 ## Sobre a submissão
