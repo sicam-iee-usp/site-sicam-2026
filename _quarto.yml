@@ -4,8 +4,6 @@ project:
   resources:
     - "*.pdf"
     - "img/*"
-    - "*.pptx"
-    - "template_submissao.docx"
 
 website:
   # body-header: |
