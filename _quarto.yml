@@ -35,17 +35,19 @@ website:
           - sobre-o-evento.qmd
           - equipe.qmd
           - edicoes-anteriores.qmd
-      - text: "Grupos temáticos"
-        href: grupos-tematicos.qmd
+      - text: "Chamada de trabalhos"
+        menu:
+          - grupos-tematicos.qmd
+          - submissao.qmd
       - text: "Informações"
         href: informacoes.qmd
       # As páginas abaixo serão atualizadas e re-adicionadas ao navbar quando
       # tivermos as informações do 6º SICAM (2026):
-      #   - submissao.qmd
       #   - submissoes-aprovadas.qmd
       #   - programacao.qmd
-      # - text: "Inscreva-se"
-      #   href: "https://forms.gle/gpKEwHUSp4buPav17"
+      - text: "Inscreva-se"
+        href: "https://www.even3.com.br/6o-sicam-a-integridade-da-informacao-e-a-ciencia-ambiental-755533/"
+        target: "_blank"
     left:
       - icon: house
         href: "https://sicam.com.br"

@@ -1,96 +1,105 @@
 ---
-title: "Submissão de trabalhos"
+title: "Regras de submissão de trabalhos"
 title-block-banner: true
 toc: true
 ---
 
-<center><a href="/submissoes-aprovadas.qmd" ><button type="button" class="btn btn-info">Confira as submissões aprovadas </button></center></a>
+```{=html}
+<!-- Botão de submissões aprovadas — reativar quando houver trabalhos aprovados de 2026:
+<center><a href="/submissoes-aprovadas.qmd"><button type="button" class="btn btn-info">Confira as submissões aprovadas</button></a></center>
+-->
+```
 
-
-## Calendário de submissão
+## Calendário
 
 | Data | Descrição |
-|------------------------|------------------------------------------------|
-| 24/07/2026 | Abertura das submissões de trabalhos |
-| 21/09/2026 | Prazo final para submissão de trabalhos |
-| 28/10/2026 | Data limite para inscrição de participantes ouvintes |
+|----------------|--------------------------------------------------------|
+| 24/07/2026 | Início da submissão de trabalhos |
+| 23/09/2026 | Prazo final para a submissão de trabalhos |
+| 23/10/2026 | Data limite para inscrição de autores que apresentarão os trabalhos aprovados |
+| 28/10/2026 | Final das inscrições para participantes ouvintes |
 
-## Sobre a submissão
+## Submissão de trabalhos
 
-As pessoas interessadas em participar do evento terão a opção de submeter seus trabalhos em forma de **apresentação oral**, distribuídos em [**Grupos Temáticos (GTs)**](grupos-tematicos.qmd).
+O 6º Simpósio Interdisciplinar de Ciência Ambiental (6º SICAM) receberá trabalhos científicos inéditos ou em desenvolvimento que dialoguem com a temática do evento e com os respectivos [Grupos Temáticos (GTs)](grupos-tematicos.qmd).
 
-<center><a href="/grupos-tematicos.qmd" ><button type="button" class="btn btn-info">Confira os Grupos Temáticos </button></center></a>
+Os trabalhos serão submetidos apenas na forma de **resumo expandido** e poderão abordar diferentes dimensões da Ciência Ambiental, incluindo aspectos sociais, econômicos, políticos, institucionais, tecnológicos, urbanos, rurais, ecológicos e culturais, desde que apresentem caráter interdisciplinar.
 
-Os trabalhos, a serem divulgados pelos participantes, envolverão aspectos sociais, econômicos, tecnológicos, urbanos, rurais, ambientais, dentre outros que englobam a interdisciplinar temática ambiental. A divulgação dos trabalhos busca maior integração não apenas com o meio acadêmico, mas também entre profissionais que atuam nas diversas frentes que envolvem o meio ambiente.
+Os trabalhos aprovados serão apresentados no evento **apenas na forma de apresentação oral** e posteriormente publicados nos Anais do 6º SICAM.
 
-### Apresentação Oral
+<center><a href="/grupos-tematicos.qmd"><button type="button" class="btn btn-info">Confira os Grupos Temáticos</button></a></center>
 
-Durante as apresentações, haverá debatedores e relatores.
+## Normas para a elaboração do resumo expandido
 
--   Debatedores: farão perguntas e contribuições sobre os trabalhos apresentados.
+Os trabalhos deverão ser elaborados utilizando **obrigatoriamente o Template Oficial do 6º SICAM**, disponível para [download aqui](https://docs.google.com/document/d/1ax63O9skPGLGXfxvyr4MK0vVuvLDc2mU/edit?usp=sharing&ouid=110188286739413029467&rtpof=true&sd=true).
 
--   Relatores: responsáveis por compilar os pontos principais de cada discussão e por expô-los na Plenária Geral a todo público do evento, de modo a trazer maior integração dos temas apresentados entre os GTs.
+O resumo expandido deverá conter, no mínimo, **1.000 palavras** e, no máximo, **1.500** (excluindo as referências, figuras, quadros, tabelas e legendas), ressaltando a importância e justificativa do trabalho, o objetivo, a metodologia utilizada, os principais resultados e, ao final, a principal conclusão, escritos de maneira clara, coerente e concisa. O conteúdo deve apresentar coerência metodológica. Obrigatória a apresentação dos resumos nas 3 línguas (português, inglês e espanhol).
 
-## Normas de elaboração de resumo expandido
+O **Texto principal** do desenvolvimento do trabalho deve ser redigido em português, fonte Times New Roman, tamanho 12, com espaçamento 1,5, formato do papel A4, margem superior 4 cm, e margens esquerda, inferior e direita de 2,5 cm. O texto deverá ser digitado em modo "justificado". O resumo deve ser digitado com espaçamento simples. As legendas (de figuras, quadros, tabelas, gráficos) devem ser digitadas em fonte de tamanho 10, com espaçamento simples.
 
-O resumo expandido deverá conter no mínimo **1.000 palavras** e no máximo **1.500** palavras (excluindo título, autores, resumos, figuras, tabelas e referências bibliográficas), ressaltando a importância e justificativa do trabalho, o objetivo, o local de realização, a metodologia utilizada, os principais resultados e, ao final, a principal conclusão, escritos de maneira clara, coerente e concisa. O conteúdo deve apresentar coerência metodológica. Obrigatória a apresentação dos resumos nas 3 línguas (português, inglês e espanhol).
+Todos os títulos das seções (RESUMO, INTRODUÇÃO, etc.) deverão ser escritos em letras maiúsculas e em negrito, seguidos por dois pontos (:) e pelo texto, com início na mesma linha. O recuo do parágrafo deve ser de 1,25 cm. Os tópicos devem ser separados do final do texto anterior por um ENTER, com espaçamento de 1,5 cm entre as linhas. **Não colocar o número das páginas** no arquivo.
 
-O **Texto principal** (Desenvolvimento do trabalho, por exemplo, as seções Introdução, Material e Métodos, Resultados, Discussão e Conclusão, podendo-se utilizar outra estrutura caso o autor prefira) deve ser redigido em português, fonte Times New Roman, tamanho 12, formato do papel A4, com espaçamento 1,5, margens superior e esquerda de 2,5 cm e inferior e direita de 2,5 cm. O texto deverá ser digitado em modo "justificado". Solicitamos que utilizem o [template de envio](https://github.com/sicam-iee-usp/site-sicam-2026/raw/main/template_submissao.docx) preparado.
+O resumo expandido poderá conter até 5 elementos não textuais (gráficos, imagens, quadros, tabelas e desenhos), os quais devem seguir as regras do item "Elementos não-textuais", que está ao final desta seção. Todos os elementos não-textuais devem ser citados no texto principal.
 
-Todos os tópicos (Resumo, Introdução, etc) deverão ser escritos em letras maiúsculas e em negrito, seguidos por dois pontos (:) e pelo texto, com início na mesma linha. O recuo do parágrafo deve ser de 1,25 cm. Os tópicos devem ser separados do final do texto anterior por por um ENTER, com espaçamento de 1,5 cm entre as linhas. **Não colocar o número das páginas** no arquivo.
+### Sequência de tópicos do Resumo Expandido
 
-O resumo expandido poderá conter até 5 elementos não textuais (gráficos, imagens, quadros e desenhos), os quais devem seguir as regras do item "Elementos não textuais", que está ao final deste arquivo. Todos os elementos não-textuais devem ser citados no texto principal.
+O **TÍTULO** do trabalho deve ser redigido em fonte Times New Roman, tamanho 12, em negrito e centralizado. Todas as letras do título devem ser maiúsculas.
 
-Para facilitar a formatação dos trabalhos pelos autores, a Comissão Organizadora do 6º SICAM também disponibilizou um template para a submissão:
+Após uma linha (espaços 1,5) do título, devem aparecer os **nomes dos autores**, separados por ponto e vírgula, em fonte Times New Roman, tamanho 12, centralizados, nomes e sobrenomes com a primeira letra em maiúsculo. Os números sobrescritos correspondentes demonstrarão o nome completo, instituição e endereço eletrônico do primeiro autor. Colocar as informações de cada autor uma embaixo da outra em espaço simples, centralizado, sendo utilizada a fonte Times New Roman, tamanho 8.
 
-<center><a href="https://github.com/sicam-iee-usp/site-sicam-2026/raw/main/template_submissao.docx" target="_blank"><button type="button" class="btn btn-info">Clique aqui para acessar <br> o template de submissão</button></center>
+Após a descrição dos autores e antes do texto principal, o material deverá apresentar os itens **Resumo** (máximo de 250 palavras), **Palavras-Chave** (no máximo 5), **Abstract** (máximo de 250 palavras) e **Keywords** (no máximo 5).
 
-</a>
-
-### Sequência de tópicos do Resumo expandido
-
-O **Título** deve ser redigido em fonte Times New Roman, tamanho 12, em negrito e centralizado. Todas as letras do título devem ser maiúsculas.
-
-Após uma linha (espaços 1,5) do título, devem aparecer os **nomes dos autores**, separados por ponto e vírgula, em fonte Times New Roman, tamanho 12, centralizados, nomes e sobrenomes com a primeira letra em maiúsculo. Os **números sobrescritos** correspondentes, demonstrarão o nome completo, instituição e endereço eletrônico do primeiro autor. Colocar as informações de cada autor uma embaixo da outra em espaço 1,5, centralizado, sendo utilizada a fonte Times New Roman, tamanho 8.
-
-Após a descrição dos autores e antes do texto principal, o material deverá apresentar os itens **Resumo** (máximo de 250 palavras), **Palavras-Chave** (no máximo 5), **Abstract** (máximo de 250 palavras) e **Keywords** (no máximo 5). 
-
-Posteriormente, deve ser apresentado o texto principal (**Desenvolvimento do trabalho**), segundo as regras mencionadas no segundo parágrafo.
+Posteriormente, deve ser apresentado o texto principal (**Desenvolvimento do trabalho**), segundo as regras já mencionadas.
 
 Os **Agradecimentos**, se for o caso, devem ser inseridos de forma sucinta, após a conclusão.
 
-Em seguida, apresentar as **Referências**, as quais devem seguir a norma da ABNT, (NBR 6023:2018), sendo que devem ser incluídas apenas aquelas mencionadas no texto e em tabelas, gráficos, fotos ou imagens, aparecendo em ordem alfabética e em letras maiúsculas. Evitar referências de resumos, trabalhos não publicados e comunicação pessoal.
+Em seguida, apresentar as **Referências**, as quais devem seguir a norma da ABNT (NBR 6023:2018), sendo que devem ser incluídas apenas aquelas mencionadas no texto e em tabelas, gráficos, fotos ou imagens, aparecendo em ordem alfabética e em letras maiúsculas. Evitar referências de resumos, trabalhos não publicados e comunicação pessoal.
 
-## Elementos não-textuais (máximo de 5)
+### Elementos não-textuais (máximo de 5)
 
-**Figuras (fotos, gráficos, desenhos):** Devem ser centralizadas, convertidas para o formato "jpg" antes de serem inseridas no texto do Word (inserir, figura, do arquivo). A numeração deve ser sucessiva em algarismos arábicos (Exemplo: Figura 1), sendo citada anteriormente no texto principal. Os **gráficos** devem ser inseridos no texto do Word como figuras (copiar, colar especial, figura do Excel Objeto) e centralizados. Os gráficos devem ser apresentados sem bordas, sendo os eixos x e y com 1/2 pt, descritos com o mesmo tipo e tamanho de letras contidas no texto e a legenda na posição inferior do mesmo. 
+**Figuras (fotos, gráficos, desenhos):** Devem ser centralizadas, convertidas para o formato "jpg" antes de serem inseridas no texto do Word (inserir, figura, do arquivo). A numeração deve ser sucessiva em algarismos arábicos (Exemplo: Figura 1), sendo citada anteriormente no texto principal. Os gráficos devem ser inseridos no texto do Word como figuras (copiar, colar especial, figura do Excel Objeto) e centralizados. Os gráficos devem ser apresentados sem bordas, sendo os eixos x e y com 0,5 pt, descritos com o mesmo tipo e tamanho de letras contidas no texto e a legenda na posição inferior do mesmo.
 
 **Tabelas:** Devem ser digitadas no texto do Word, de modo a ficarem independentes dos aplicativos fontes, tais como Excel. Espaçamento simples entre linhas. A numeração deve ser sucessiva em algarismos arábicos (Exemplo: Tabela 1), sendo citada anteriormente no texto principal. A legenda deve ser superior à tabela, centralizada, fonte Times New Roman, tamanho 10.
 
-## Orientações para envio de resumo expandido
+### Orientações para a submissão do resumo expandido
 
-No ato da submissão do resumo expandido, deverão ser enviados dois arquivos: um em **formato \*.pdf sem os nomes dos autores** (para permitir a avaliação cega por parte dos avaliadores) e outro em **formato word** (\*.doc ou \*.docx) **com os nomes e filiações** dos autores (este será publicado nos anais no caso de aceite).
+Os trabalhos serão submetidos via **plataforma do Even3**.
 
-Os arquivos devem estar nomeados com o número do GT específico e o título do trabalho. Cada um destes dois arquivos devem possuir o mesmo nome, por exemplo, "GT0-TituloDoTrabalho.docx" (para o arquivo com nomes e afiliações dos autores) e "GT0-TituloDoTrabalho.pdf" (para o arquivo sem nomes e afiliações dos autores). Exemplo: `GT1-UmEstudodeCasodeEmergênciaClimatica.docx`.
+<center><a href="https://www.even3.com.br/6o-sicam-a-integridade-da-informacao-e-a-ciencia-ambiental-755533/" target="_blank"><button type="button" class="btn btn-info">Acesse a plataforma de submissão (Even3)</button></a></center>
 
-Ambos os arquivos devem ser anexados ao **Formulário de submissão** (Link: <https://forms.gle/zaMigRcPrdnrvyNC7> ) até às 23h59min do dia **22 de setembro de 2024**.
+No ato da submissão do resumo expandido, deverão ser enviados dois arquivos: um em formato **\*.pdf sem os nomes dos autores** (para permitir a avaliação cega por parte dos avaliadores) e outro em formato **word** (\*.doc ou \*.docx) **com os nomes e filiações dos autores** (este será publicado nos anais no caso de aceite).
 
-<center><a href="https://forms.gle/zaMigRcPrdnrvyNC7" target="_blank"><button type="button" class="btn btn-info">Acesse o formulário de <br> submissão! </button></center>
+Cada um destes dois arquivos deve possuir o mesmo nome, com as palavras separadas por underscore ("\_"), por exemplo, `Ciencia_Ambiental_SICAM.docx` (para o arquivo com nomes e afiliações dos autores) e `Ciencia_Ambiental_SICAM.pdf` (para o arquivo sem nomes e afiliações dos autores).
 
-</a>
+Ambos os arquivos devem ser anexados na plataforma de submissão do Even3 até às **23h59min do dia 23 de setembro de 2026**. A publicação dos trabalhos aceitos ocorrerá em **16 de outubro de 2026**, após o período de avaliação dos mesmos. Você receberá um e-mail notificando a situação do seu trabalho, e a programação de apresentações será publicada no Even3.
 
-O **limite** máximo de trabalhos submetidos é de **3 (três) resumos expandidos por primeiro autor**, não sendo cobrada qualquer taxa para submissão de trabalhos nem para a participação do evento. O número máximo de autores é de quatro autores por resumo expandido. Em caso de optar por apresentação oral ao vivo para mais de um trabalho, GTs diferentes podem ser considerados desde que ocorram em dias diferentes do evento.
+O **limite máximo** de trabalhos submetidos é de **3 (três) resumos expandidos por primeiro autor**, não sendo cobrada qualquer taxa para submissão de trabalhos nem para a participação do evento. O número máximo de autores é de quatro autores por resumo expandido. Em caso de optar por apresentação oral ao vivo para mais de um trabalho, GTs diferentes podem ser considerados desde que ocorram em dias diferentes do evento.
 
 Recomenda-se aos autores que **evitem submissões em última hora** para evitar possíveis falhas de sistema ocasionadas por congestionamento (grande quantidade de usuários ao mesmo tempo).
 
 Em caso de dúvidas, escrever para a Comissão Organizadora do 6º SICAM, por meio do e-mail [**sicam.iee.usp\@gmail.com**](mailto:sicam.iee.usp@gmail.com).
 
-No ato da submissão, o autor deverá escolher a forma de apresentação oral do seu trabalho: com 10 minutos para exibição e 5 minutos para resposta às perguntas dos participantes; ou na forma de pôster.
+Na plataforma Even3 também estão disponibilizados os templates para o texto (docx) e para a apresentação oral no evento (ppt).
 
-Caso a quantidade de apresentações orais exceda a quantidade de tempo disponível para o evento, a Comissão Científica selecionará alguns trabalhos para serem apresentados em formato de pôster.
+O(s) autor(es) é(são) responsável(is) por eventuais erros presentes no seu trabalho, devendo estar ciente que a qualidade do texto (gramática, ortografia e formatação) será considerada como critério de avaliação pela comissão científica.
 
-Uma vez submetido o resumo, não haverá mais oportunidades para qualquer tipo de correção. Ou seja, **o(s) autor(es) é(são) responsável(is) por eventuais erros presentes no seu trabalho**, devendo estar ciente que a qualidade do texto (gramática, ortografia e formatação) será considerada como critério de avaliação pela comissão científica.
+Os certificados de apresentação serão enviados somente aos que apresentaram o trabalho.
 
-**Os certificados de apresentação serão enviados somente aos que apresentaram o trabalho.**
+## Modalidade de apresentação: Apresentação Oral Presencial
 
-A pessoa que submeteu o resumo já estará inscrita no evento. Contudo, caso esta não seja a pessoa que irá apresentar, a inscrição no evento (para autores que apresentarão trabalhos) poderá ser feita após o resultado do parecer do trabalho submetido. **O autor responsável pela apresentação deverá se inscrever no evento até 11/10/2024**. Caso o autor responsável pela apresentação tenha algum imprevisto e não possa participar do evento, o mesmo deverá solicitar que outro autor faça a inscrição para a apresentação ou deverá informar à Comissão Organizadora que o trabalho não será apresentado.
+Todos os trabalhos aprovados serão apresentados exclusivamente na modalidade **Apresentação Oral**, organizada por Grupos Temáticos (GTs).
+
+Os autores devem utilizar o template elaborado pela Comissão de Organização do 6º SICAM obrigatoriamente ao menos no primeiro e no último slide da apresentação, com as logos e identificação do evento. Nos demais slides podem optar pela formatação de sua preferência, seguindo as regras: fundo branco, texto em cor escura e margens padronizadas (para facilitar a projeção). O template da apresentação está disponível para [download aqui](https://docs.google.com/presentation/d/1glRy3Z_e1kgJfEu_JCR4LeqOZiyVDyNX/edit?usp=sharing&ouid=110188286739413029467&rtpof=true&sd=true).
+
+Cada apresentação terá duração de **10 minutos** para exposição do trabalho e **5 minutos** para perguntas e discussão. Cada sessão contará com:
+
+- **Debatedores**, responsáveis por comentar os trabalhos apresentados, promover o debate científico e estimular a integração entre os participantes.
+- **Relatores**, responsáveis por sintetizar as principais discussões ocorridas na sessão e apresentá-las durante a Plenária Geral do evento, promovendo o diálogo entre os diferentes Grupos Temáticos.
+
+## Inscrições
+
+A inscrição no evento é **obrigatória** para todos os participantes, inclusive os autores que apresentarão trabalhos. A inscrição poderá ser feita após o resultado do parecer do trabalho submetido.
+
+<center><a href="https://www.even3.com.br/6o-sicam-a-integridade-da-informacao-e-a-ciencia-ambiental-755533/" target="_blank"><button type="button" class="btn btn-info">Inscreva-se no evento (Even3)</button></a></center>
+
+O autor responsável pela apresentação deverá se inscrever no evento. Caso o autor responsável pela apresentação tenha algum imprevisto e não possa participar do evento, o mesmo deverá solicitar que outro autor faça a inscrição para a apresentação ou deverá informar à Comissão Organizadora que o trabalho não será apresentado, pelo e-mail [**sicam.iee.usp\@gmail.com**](mailto:sicam.iee.usp@gmail.com).
