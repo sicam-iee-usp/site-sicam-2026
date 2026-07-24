@@ -11,15 +11,15 @@ toc: true
 
 | Data | Descrição |
 |------------------------|------------------------------------------------|
-| 05/08/2024 | Abertura das submissões de trabalhos |
-| **22/09/2024** | Prazo final para submissão de trabalhos (**PRORROGADO**) |
-| 04/10/2024 | Data prevista para divulgação dos resultados dos trabalhos submetidos |
-| 11/10/2024 | Data limite para inscrição de autores que apresentarão os trabalhos aprovados |
-| 21/10/2024 | Data limite para inscrição de participantes ouvintes |
+| 24/07/2026 | Abertura das submissões de trabalhos |
+| 21/09/2026 | Prazo final para submissão de trabalhos |
+| 16/10/2026 | Data prevista para divulgação dos resultados dos trabalhos submetidos |
+| 23/10/2026 | Data limite para inscrição de autores que apresentarão os trabalhos aprovados |
+| 28/10/2026 | Data limite para inscrição de participantes ouvintes |
 
 ## Sobre a submissão
 
-As pessoas interessadas em participar do evento terão a opção de submeter seus trabalhos em forma de **apresentação oral** ou **apresentação de pôster**, distribuídos em [**Grupos Temáticos (GTs)**](grupos-tematicos.qmd).
+As pessoas interessadas em participar do evento terão a opção de submeter seus trabalhos em forma de **apresentação oral**, distribuídos em [**Grupos Temáticos (GTs)**](grupos-tematicos.qmd).
 
 <center><a href="/grupos-tematicos.qmd" ><button type="button" class="btn btn-info">Confira os Grupos Temáticos </button></center></a>
 
@@ -32,12 +32,6 @@ Durante as apresentações, haverá debatedores e relatores.
 -   Debatedores: farão perguntas e contribuições sobre os trabalhos apresentados.
 
 -   Relatores: responsáveis por compilar os pontos principais de cada discussão e por expô-los na Plenária Geral a todo público do evento, de modo a trazer maior integração dos temas apresentados entre os GTs.
-
-### Apresentação em Pôster
-
-As apresentações em pôster acontecerão no Centro de Convivência do IEE, durante os dias do evento, em horários que serão divulgados na programação.
-
-Acesse o [template para o pôster](https://github.com/sicam-iee-usp/site-sicam-2026/raw/main/template_poster.pptx).
 
 ## Normas de elaboração de resumo expandido
 
