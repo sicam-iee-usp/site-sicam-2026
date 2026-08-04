@@ -14,7 +14,7 @@ Nesta sexta edição, o 6º SICAM conta com 11 grupos temáticos, organizados em
 
 #### GT 2: Povos e Comunidades Tradicionais e Originárias: a integração de saberes e a ciência ambiental
 
--   **Coordenação:** [Sueli Furlan](http://lattes.cnpq.br/8238156832489494) (PROCAM/USP)
+-   **Coordenação:** [Sueli Furlan](http://lattes.cnpq.br/8238156832489494) (PROCAM/USP) e Lisângela Kati Do Nascimento
 -   **Descrição:** Propõe uma reflexão sobre os processos de coprodução de conhecimento em pesquisas transdisciplinares que envolvam saberes de povos e comunidades tradicionais e locais (sensu IPBES). Estes são reconhecidos por ampliarem nossa capacidade de compreensão e enfrentamento dos desafios socioambientais do Antropoceno, mas ainda são muitos os desafios para desenvolver formas legítimas, transparentes e construtivas de criar sinergias entre sistemas de conhecimento. O objetivo do GT é promover uma cooperação intercultural e prática que reconheça e integre diferentes formas de coprodução de conhecimento para a conservação ambiental, a sustentabilidade e o fortalecimento dos direitos, territórios e modos de vida de povos e comunidades tradicionais e locais. Serão acolhidos trabalhos que abordem coprodução do conhecimento, governança participativa de sistemas socioecológicos, e outras perspectivas que valorizem a pluralidade epistemológica e os processos democráticos de tomada de decisão.
 
 #### GT 3: Gestão, conservação e impactos: Desafios para a sustentabilidade dos biomas brasileiros
@@ -46,7 +46,7 @@ Nesta sexta edição, o 6º SICAM conta com 11 grupos temáticos, organizados em
 
 #### GT 8: Cidades resilientes e planejamento urbano
 
--   **Coordenação:** [Silvia Zanirato](http://lattes.cnpq.br/7528395569826025) (PROCAM/USP) 
+-   **Coordenação:** [Silvia Zanirato](http://lattes.cnpq.br/7528395569826025) (PROCAM/USP) e [Jeferson Cristiano Tavares](http://lattes.cnpq.br/0229983783255719) (IAU/USP)
 -   **Descrição:** As cidades concentram parte significativa dos impactos das mudanças climáticas e enfrentam desafios relacionados à urbanização, à ocupação do solo, à infraestrutura, à mobilidade e à exposição crescente a eventos extremos. Nesse contexto, o planejamento urbano desempenha papel central na construção de cidades mais resilientes, sustentáveis e habitáveis. Este Grupo Temático reúne trabalhos que abordem o planejamento, o desenho, a gestão e a governança do espaço urbano, incluindo instrumentos urbanísticos, infraestrutura urbana, mobilidade, drenagem, infraestrutura verde e azul, gestão de riscos e desastres e estratégias de adaptação incorporadas às políticas urbanas. O foco do GT recai sobre intervenções, políticas e experiências voltadas à qualificação do ambiente urbano e ao fortalecimento da resiliência das cidades frente às mudanças climáticas.
 
 #### GT 9: Justiça climática, adaptação e planejamento territorial
@@ -56,7 +56,7 @@ Nesta sexta edição, o 6º SICAM conta com 11 grupos temáticos, organizados em
 
 #### GT 10: Gestão de riscos de desastres e desinformação
 
--   **Coordenação:** Débora Olivato (CEMADEN/MCTI)
+-   **Coordenação:** Débora Olivato (CEMADEN/MCTI) e [Cilene Victor](http://lattes.cnpq.br/1124699971174252) (UMESP)
 -   **Descrição:** A propagação de desinformação em momentos críticos compromete severamente a eficácia da gestão pública e a resiliência das comunidades. Ante a iminência de eventos climáticos extremos, especialmente associados à previsão do El Niño 2026-2027, o combate ao negacionismo e às fake news torna-se um pilar vital da gestão de riscos e adaptação às mudanças climáticas. Este GT convida trabalhos que analisem a intersecção entre mudanças do clima e comunicação, processos educativos e comportamento humano abordando estratégias de prevenção, gestão pública diante de desastres socioambientais e o impacto da desinformação na percepção de risco. Serão bem vindas pesquisas que tratam da articulação entre ciência, informação e governança, visando fortalecer as capacidades para a prevenção e preparação das respostas individuais e coletivas.
 
 ## Eixo 3 - Análise Sociotécnica e Modelagem Socioambiental
