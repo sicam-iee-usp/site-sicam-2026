@@ -39,14 +39,22 @@ page-layout: full
 
 :::::: grid
 ::: g-col-4
-![](img/apoio/usp.png){fig-align="center"}
+[![](img/apoio/usp.png){fig-align="center"}](https://www.usp.br/){target="_blank"}
 :::
 
 ::: g-col-4
-![](img/apoio/iee.jpeg){fig-align="center"}
+[![](img/apoio/iee.jpeg){fig-align="center"}](https://www.iee.usp.br/){target="_blank"}
 :::
 
 ::: g-col-4
-![](img/apoio/procam.jpeg){fig-align="center"}
+[![](img/apoio/procam.jpeg){fig-align="center"}](https://procam.iee.usp.br/){target="_blank"}
 :::
 ::::::
+
+## Apoio
+
+:::: grid
+::: {.g-col-6 .g-start-4}
+[![](img/apoio/rpiic-fonte-escura--fundo-transparente.png){fig-align="center" fig-alt="Rede de Parceiros pela Integridade da Informação sobre a Mudança do Clima" width="360"}](https://integridadeclima.org/){target="_blank"}
+:::
+::::
