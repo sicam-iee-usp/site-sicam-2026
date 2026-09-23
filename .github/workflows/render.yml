@@ -26,6 +26,9 @@ jobs:
       - name: Instalar o R
         uses: r-lib/actions/setup-r@v2
         with:
+          # Versao fixa: evita a resolucao de "release" via API do r-hub,
+          # que estava falhando (Failed to resolve R version release ...).
+          r-version: '4.4.1'
           use-public-rspm: true
 
       - name: Instalar pacotes de R
