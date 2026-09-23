@@ -15,7 +15,7 @@ toc: true
 | Data | Descrição |
 |----------------|--------------------------------------------------------|
 | 24/07/2026 | Início da submissão de trabalhos |
-| 23/09/2026 | Prazo final para a submissão de trabalhos |
+| 07/10/2026 | Prazo final para a submissão de trabalhos (prorrogado) |
 | 23/10/2026 | Data limite para inscrição de autores que apresentarão os trabalhos aprovados |
 | 28/10/2026 | Final das inscrições para participantes ouvintes |
 
@@ -71,7 +71,7 @@ No ato da submissão do resumo expandido, deverão ser enviados dois arquivos: u
 
 Cada um destes dois arquivos deve possuir o mesmo nome, com as palavras separadas por underscore ("\_"), por exemplo, `Ciencia_Ambiental_SICAM.docx` (para o arquivo com nomes e afiliações dos autores) e `Ciencia_Ambiental_SICAM.pdf` (para o arquivo sem nomes e afiliações dos autores).
 
-Ambos os arquivos devem ser anexados na plataforma de submissão do Even3 até às **23h59min do dia 23 de setembro de 2026**. A publicação dos trabalhos aceitos ocorrerá em **16 de outubro de 2026**, após o período de avaliação dos mesmos. Você receberá um e-mail notificando a situação do seu trabalho, e a programação de apresentações será publicada no Even3.
+Ambos os arquivos devem ser anexados na plataforma de submissão do Even3 até às **23h59min do dia 07 de outubro de 2026**. A publicação dos trabalhos aceitos ocorrerá em **16 de outubro de 2026**, após o período de avaliação dos mesmos. Você receberá um e-mail notificando a situação do seu trabalho, e a programação de apresentações será publicada no Even3.
 
 O **limite máximo** de trabalhos submetidos é de **3 (três) resumos expandidos por primeiro autor**, não sendo cobrada qualquer taxa para submissão de trabalhos nem para a participação do evento. O número máximo de autores é de quatro autores por resumo expandido. Em caso de optar por apresentação oral ao vivo para mais de um trabalho, GTs diferentes podem ser considerados desde que ocorram em dias diferentes do evento.
 

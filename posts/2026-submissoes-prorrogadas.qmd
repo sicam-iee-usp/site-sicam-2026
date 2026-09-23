@@ -1,0 +1,13 @@
+---
+title: "Submissões prorrogadas até 07/10"
+author: "Comissão Organizadora"
+date: "2026-09-23"
+image: "../../img/logo-2026-2-low-res.png"
+---
+
+As submissões de trabalhos para o 6º SICAM foram **prorrogadas**! O novo prazo final para o envio dos resumos expandidos é **07/10/2026**.
+
+
+Confira as [regras de submissão](/submissao.qmd) e submeta seu trabalho:
+
+<center><a href="https://www.even3.com.br/6o-sicam-755533/" target="_blank"><button type="button" class="btn btn-info">Submeta seu trabalho no Even3</button></a></center>
