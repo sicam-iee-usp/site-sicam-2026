@@ -5,6 +5,16 @@ title-block-banner: true
 
 Nesta sexta edição, o 6º SICAM conta com 11 grupos temáticos, organizados em 3 eixos.
 
+## Agenda dos Grupos Temáticos
+
+Confira a divisão dos GTs nos dias do evento!
+
+| Data | Grupos Temáticos |
+|------|------------------|
+| Quarta-feira (04/11/2026) | GTs 1, 2, 3, 4 |
+| Quinta-feira (05/11/2026) | GTs 5, 6, 7, 8 |
+| Sexta-feira (06/11/2026) | GTs 9, 10, 11 |
+
 ## Eixo 1 - Conservação e Desenvolvimento Socioambiental
 
 #### GT 1: Economia Ambiental e Ecológica
