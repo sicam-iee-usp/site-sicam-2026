@@ -235,7 +235,7 @@ ul.task-list li input[type="checkbox"] {
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14629.169417788255!2d-46.7333307!3d-23.5579413!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5616b27b7ba5%3A0xbf3891c8c2f7a2cf!2sInstitute%20of%20Electrotechnics%20and%20Energy%20of%20the%20University%20of%20S%C3%A3o%20Paulo!5e0!3m2!1sen!2sbr!4v1725023110255!5m2!1sen!2sbr" width="80%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 </iframe>
 </center>
-<p><a href="https://www.google.com/maps/place/Institute+of+Electrotechnics+and+Energy+of+the+University+of+S%C3%A3o+Paulo/@-23.5579413,-46.7333307,14z">Veja a localização no Google Maps</a></p>
+<p><a href="https://maps.app.goo.gl/Fg9ZCiH8F2yG9ffC9">Veja a localização no Google Maps</a></p>
 </section>
 <section id="como-chegar-de-transporte-público" class="level2">
 <h2 class="anchored" data-anchor-id="como-chegar-de-transporte-público">Como chegar de transporte público</h2>
@@ -267,7 +267,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="alimentação" class="level2">
 <h2 class="anchored" data-anchor-id="alimentação">Alimentação</h2>
 <p>Para estudantes da USP, é possível acessar o restaurante universitário (conhecido como Bandejão).</p>
-<p>Para visitantes, existem alguns restaurantes e lanchonetes em alguns institutos da USP. Não existe restaurante e lanchonete dentro do IEE/USP (local do evento).</p>
+<p>Para visitantes, existem alguns restaurantes e lanchonetes em alguns institutos da USP.</p>
 <p><strong>Lanchonete do IME</strong></p>
 <p>Distância: 450m</p>
 <p>Endereço: R. do Matão, 1010 - Butantã, São Paulo - SP, 05508-090</p>
@@ -277,10 +277,9 @@ ul.task-list li input[type="checkbox"] {
 <p>Distância: 550m</p>
 <p>Endereço: Universidade de São Paulo - R. do Lago, 876 - Butantã, São Paulo - SP, 05508-080</p>
 <p>Preço por pessoa: R$ 20–40</p>
-<p><a href="https://g.co/kgs/6praoCG" class="uri">https://g.co/kgs/6praoCG</a></p>
+<p><a href="https://maps.app.goo.gl/GPHMh6kBEyWQ48he7" class="uri">https://maps.app.goo.gl/GPHMh6kBEyWQ48he7</a></p>
 <p>*não é a lanchonete da cooperativa Monte Sinai. Atualmente há outra operando no local.&nbsp;</p>
 <p>*possui salgados veganos</p>
-<p><a href="https://kadalora.com.br/#lojas" class="uri">https://kadalora.com.br/#lojas</a></p>
 <p><strong>Restaurante por Kg - Instituto de Física</strong></p>
 <p>Distância: 650m</p>
 <p>Restaurante por kilo, ao lado da livraria da Física.</p>
@@ -293,20 +292,18 @@ ul.task-list li input[type="checkbox"] {
 <p>Endereço: Av. Prof.&nbsp;Lúcio Martins Rodrigues, 4 - Butantã, São Paulo - SP, 05508-020</p>
 <p>Telefone: (11) 94700-1624</p>
 <p>Preço por pessoa: R$ 40–60</p>
-<p><a href="https://g.co/kgs/dzi3c2f" class="uri">https://g.co/kgs/dzi3c2f</a><br>
-</p>
+<p><a href="https://maps.app.goo.gl/qSHHyycxbVqmoNm9A" class="uri">https://maps.app.goo.gl/qSHHyycxbVqmoNm9A</a></p>
 <p><strong>Lanchonete da Letras</strong></p>
 <p>Distância: 900m</p>
 <p>Endereço: 05508-010, Av. Prof.&nbsp;Luciano Gualberto, 298-460 - Butantã, São Paulo - SP, 05508-010</p>
 <p>Preço por pessoa: R$ 20–40</p>
-<p><a href="https://g.co/kgs/KdCf7rk" class="uri">https://g.co/kgs/KdCf7rk</a></p>
+<p><a href="https://maps.app.goo.gl/oECih5Cf7E1eotPEA" class="uri">https://maps.app.goo.gl/oECih5Cf7E1eotPEA</a></p>
 <p><strong>Restaurante do Viveiro</strong></p>
 <p>Distância: 950m</p>
 <p>Endereço: R. do Matão, 801 - Butantã, São Paulo - SP, 05508-090</p>
 <p>Telefone: (11) 99247-5016</p>
 <p>Preço por pessoa: R$ 20–40</p>
-<p><a href="https://g.co/kgs/yVmw5xi" class="uri">https://g.co/kgs/yVmw5xi</a><br>
-</p>
+<p><a href="https://maps.app.goo.gl/Veag1wAxgARAbMz16" class="uri">https://maps.app.goo.gl/Veag1wAxgARAbMz16</a></p>
 
 
 </section>
@@ -399,6 +396,11 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
