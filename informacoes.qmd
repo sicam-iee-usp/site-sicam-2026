@@ -2,6 +2,7 @@
 title: "Informações gerais"
 title-block-banner: true
 toc: true
+link-external-newwindow: true
 ---
 
 ## Informações Gerais
