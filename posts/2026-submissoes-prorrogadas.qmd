@@ -1,9 +1,11 @@
 ---
-title: "Submissões prorrogadas até 11/10"
+title: "Submissões encerradas: prorrogação foi até 11/10"
 author: "Comissão Organizadora"
 date: "2026-10-08"
 image: "../../img/logo-2026-2-low-res.png"
 ---
+
+**Atualização: Submissões encerradas! Agradecemos a todas e todos pelo envio de trabalhos.**
 
 Última prorrogação! As submissões de trabalhos para o 6º SICAM foram **prorrogadas** mais uma vez. O novo prazo final para o envio dos resumos expandidos é **11/10/2026**.
 
