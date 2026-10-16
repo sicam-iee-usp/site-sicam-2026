@@ -59,6 +59,6 @@ page-layout: full
 :::
 
 ::: {.g-col-5 .d-flex .justify-content-center .align-items-center}
-[![](img/apoio/climares.png){fig-align="center" fig-alt="CLIMARES - Centro de Pesquisa em Resiliência a Crises e Desastres Climáticos" width="360"}](https://climares.iee.usp.br/ptbr){target="_blank"}
+[![](img/apoio/oficial-logotipo-climares.png){fig-align="center" fig-alt="CLIMARES - Centro de Pesquisa em Resiliência a Crises e Desastres Climáticos" width="360"}](https://climares.iee.usp.br/ptbr){target="_blank"}
 :::
 ::::
